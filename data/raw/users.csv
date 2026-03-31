@@ -1,0 +1,2001 @@
+user_id,signup_date,device_type,acquisition_channel,region,age_group
+1001,2025-02-21,Android,Referral,South,18-24
+1002,2025-01-15,iOS,Organic,South,25-34
+1003,2025-03-13,iOS,Paid Social,Northeast,35-44
+1004,2025-03-02,iOS,Paid Social,South,25-34
+1005,2025-01-21,Web,Search,Midwest,45-54
+1006,2025-03-24,Android,Paid Social,South,35-44
+1007,2025-03-28,iOS,Paid Social,South,35-44
+1008,2025-03-16,iOS,Paid Social,West,35-44
+1009,2025-03-16,Android,Paid Social,Midwest,25-34
+1010,2025-03-29,iOS,Paid Social,South,35-44
+1011,2025-01-24,iOS,Paid Social,South,18-24
+1012,2025-01-03,Web,Paid Social,South,18-24
+1013,2025-01-22,iOS,Search,Northeast,45-54
+1014,2025-02-22,Android,Paid Social,South,25-34
+1015,2025-01-02,Web,Search,West,25-34
+1016,2025-03-29,iOS,Paid Social,Midwest,25-34
+1017,2025-01-30,iOS,Search,Midwest,25-34
+1018,2025-02-07,iOS,Referral,South,18-24
+1019,2025-01-02,Android,Paid Social,South,18-24
+1020,2025-03-05,Android,Search,South,18-24
+1021,2025-03-01,Android,Organic,Midwest,25-34
+1022,2025-01-21,iOS,Search,Midwest,25-34
+1023,2025-02-02,Android,Paid Social,Northeast,18-24
+1024,2025-03-17,Web,Organic,West,35-44
+1025,2025-02-27,Android,Paid Social,Northeast,18-24
+1026,2025-01-22,Web,Search,West,35-44
+1027,2025-03-30,Android,Organic,Northeast,45-54
+1028,2025-02-18,Android,Paid Social,Midwest,35-44
+1029,2025-02-28,Android,Referral,Northeast,35-44
+1030,2025-02-11,iOS,Referral,West,45-54
+1031,2025-03-01,iOS,Paid Social,South,25-34
+1032,2025-03-21,Android,Organic,West,35-44
+1033,2025-01-15,iOS,Organic,South,35-44
+1034,2025-03-03,Android,Paid Social,Midwest,25-34
+1035,2025-03-03,Web,Paid Social,West,25-34
+1036,2025-02-16,Android,Search,Northeast,45-54
+1037,2025-03-03,iOS,Organic,West,35-44
+1038,2025-02-20,iOS,Referral,South,18-24
+1039,2025-02-24,iOS,Organic,Midwest,25-34
+1040,2025-03-05,Android,Organic,Northeast,35-44
+1041,2025-01-03,Android,Paid Social,West,25-34
+1042,2025-02-20,Web,Paid Social,South,25-34
+1043,2025-01-07,iOS,Referral,Northeast,35-44
+1044,2025-01-21,Web,Search,Midwest,25-34
+1045,2025-03-14,Android,Paid Social,Northeast,25-34
+1046,2025-02-08,iOS,Search,Midwest,35-44
+1047,2025-01-18,Android,Search,Northeast,35-44
+1048,2025-01-04,iOS,Paid Social,West,25-34
+1049,2025-03-30,iOS,Referral,South,25-34
+1050,2025-03-01,Android,Paid Social,West,25-34
+1051,2025-01-14,iOS,Organic,West,45-54
+1052,2025-01-09,Android,Referral,Midwest,18-24
+1053,2025-03-31,Android,Organic,Midwest,25-34
+1054,2025-02-22,Android,Paid Social,Midwest,25-34
+1055,2025-01-02,iOS,Referral,West,35-44
+1056,2025-03-25,Android,Organic,Northeast,18-24
+1057,2025-03-01,Android,Organic,Northeast,25-34
+1058,2025-03-12,Android,Search,West,18-24
+1059,2025-02-13,iOS,Paid Social,West,35-44
+1060,2025-01-08,iOS,Organic,South,18-24
+1061,2025-02-16,Android,Referral,Midwest,25-34
+1062,2025-02-04,iOS,Paid Social,Midwest,25-34
+1063,2025-03-19,Android,Paid Social,West,35-44
+1064,2025-03-22,Android,Search,West,25-34
+1065,2025-02-05,Android,Referral,Northeast,18-24
+1066,2025-02-19,Android,Paid Social,West,25-34
+1067,2025-01-04,Web,Referral,Northeast,45-54
+1068,2025-01-02,Android,Search,West,25-34
+1069,2025-01-06,Web,Organic,South,45-54
+1070,2025-02-23,Android,Organic,South,35-44
+1071,2025-01-04,iOS,Organic,Northeast,18-24
+1072,2025-02-23,iOS,Referral,Midwest,35-44
+1073,2025-03-04,Android,Paid Social,South,25-34
+1074,2025-01-18,iOS,Paid Social,Northeast,25-34
+1075,2025-03-31,Android,Search,West,25-34
+1076,2025-02-13,iOS,Referral,West,25-34
+1077,2025-02-03,Android,Organic,Northeast,45-54
+1078,2025-03-15,Android,Organic,Midwest,18-24
+1079,2025-03-03,Android,Paid Social,Northeast,35-44
+1080,2025-01-14,Android,Paid Social,Northeast,18-24
+1081,2025-02-17,Android,Referral,South,18-24
+1082,2025-01-15,iOS,Search,Northeast,35-44
+1083,2025-03-13,Android,Organic,Northeast,25-34
+1084,2025-03-19,iOS,Paid Social,West,35-44
+1085,2025-03-28,Web,Referral,South,18-24
+1086,2025-03-03,Android,Paid Social,West,25-34
+1087,2025-02-09,iOS,Organic,West,35-44
+1088,2025-03-26,iOS,Paid Social,Midwest,25-34
+1089,2025-03-21,Android,Organic,Midwest,25-34
+1090,2025-03-23,iOS,Search,South,45-54
+1091,2025-02-22,iOS,Organic,South,35-44
+1092,2025-01-24,Android,Paid Social,Midwest,45-54
+1093,2025-01-26,Android,Paid Social,Midwest,35-44
+1094,2025-03-30,Android,Search,Midwest,35-44
+1095,2025-03-01,Web,Organic,Midwest,18-24
+1096,2025-02-10,Android,Organic,Midwest,25-34
+1097,2025-01-29,Android,Organic,West,35-44
+1098,2025-01-15,iOS,Organic,South,18-24
+1099,2025-02-14,Android,Organic,West,18-24
+1100,2025-03-06,iOS,Paid Social,West,25-34
+1101,2025-03-30,Web,Organic,Northeast,18-24
+1102,2025-03-12,Android,Organic,West,45-54
+1103,2025-01-09,Android,Referral,Midwest,35-44
+1104,2025-03-29,iOS,Paid Social,Midwest,25-34
+1105,2025-01-01,Android,Paid Social,Northeast,18-24
+1106,2025-01-08,Android,Organic,Northeast,35-44
+1107,2025-03-29,iOS,Search,Northeast,25-34
+1108,2025-03-04,iOS,Organic,Northeast,45-54
+1109,2025-01-11,Android,Search,Northeast,25-34
+1110,2025-03-22,iOS,Referral,West,25-34
+1111,2025-01-08,Web,Organic,Northeast,25-34
+1112,2025-02-04,iOS,Search,West,45-54
+1113,2025-02-04,iOS,Organic,South,35-44
+1114,2025-02-02,Android,Organic,Northeast,35-44
+1115,2025-01-05,iOS,Referral,Northeast,18-24
+1116,2025-02-10,Android,Referral,West,35-44
+1117,2025-01-28,iOS,Paid Social,South,35-44
+1118,2025-01-07,iOS,Organic,West,25-34
+1119,2025-03-14,Android,Paid Social,West,25-34
+1120,2025-03-13,Android,Referral,Northeast,25-34
+1121,2025-01-12,Android,Organic,Midwest,25-34
+1122,2025-02-03,Android,Organic,Midwest,18-24
+1123,2025-02-02,Android,Organic,West,25-34
+1124,2025-02-17,iOS,Organic,Northeast,25-34
+1125,2025-01-23,iOS,Search,South,18-24
+1126,2025-03-03,Web,Paid Social,Midwest,25-34
+1127,2025-03-29,Android,Search,South,35-44
+1128,2025-02-06,Android,Paid Social,Midwest,25-34
+1129,2025-02-13,iOS,Referral,Northeast,25-34
+1130,2025-03-27,iOS,Organic,West,25-34
+1131,2025-02-04,Android,Paid Social,South,35-44
+1132,2025-03-06,Android,Organic,South,18-24
+1133,2025-02-16,Android,Organic,West,35-44
+1134,2025-03-19,Android,Paid Social,South,18-24
+1135,2025-01-03,Android,Search,Midwest,35-44
+1136,2025-01-01,iOS,Referral,West,25-34
+1137,2025-01-05,iOS,Organic,Midwest,35-44
+1138,2025-03-31,iOS,Organic,Midwest,25-34
+1139,2025-01-14,iOS,Organic,Northeast,25-34
+1140,2025-01-27,Android,Paid Social,Midwest,18-24
+1141,2025-01-09,Android,Referral,Northeast,25-34
+1142,2025-03-20,Android,Search,South,45-54
+1143,2025-01-15,iOS,Organic,South,35-44
+1144,2025-03-31,iOS,Paid Social,Northeast,18-24
+1145,2025-02-11,iOS,Paid Social,Midwest,25-34
+1146,2025-03-18,iOS,Referral,West,45-54
+1147,2025-02-20,Android,Paid Social,West,25-34
+1148,2025-03-04,iOS,Referral,Northeast,35-44
+1149,2025-02-21,Android,Referral,South,45-54
+1150,2025-01-04,iOS,Organic,South,35-44
+1151,2025-01-23,iOS,Referral,West,25-34
+1152,2025-01-15,iOS,Organic,Northeast,25-34
+1153,2025-02-12,Android,Referral,West,25-34
+1154,2025-01-29,Android,Paid Social,Midwest,35-44
+1155,2025-02-05,iOS,Paid Social,Midwest,25-34
+1156,2025-01-13,iOS,Search,Northeast,18-24
+1157,2025-02-01,Android,Search,Northeast,25-34
+1158,2025-03-12,iOS,Referral,Midwest,18-24
+1159,2025-02-28,iOS,Paid Social,South,35-44
+1160,2025-03-27,Android,Referral,Northeast,25-34
+1161,2025-01-28,Android,Paid Social,Midwest,25-34
+1162,2025-03-07,iOS,Search,Midwest,25-34
+1163,2025-02-11,Web,Paid Social,South,45-54
+1164,2025-02-14,Android,Search,South,18-24
+1165,2025-03-03,iOS,Search,South,35-44
+1166,2025-02-26,Android,Referral,South,45-54
+1167,2025-01-06,Android,Organic,West,25-34
+1168,2025-01-28,iOS,Organic,South,25-34
+1169,2025-01-28,iOS,Search,West,45-54
+1170,2025-02-13,iOS,Organic,Northeast,18-24
+1171,2025-03-25,Android,Search,Midwest,25-34
+1172,2025-01-30,iOS,Paid Social,West,25-34
+1173,2025-03-03,Android,Paid Social,Northeast,25-34
+1174,2025-03-16,Android,Search,Northeast,35-44
+1175,2025-03-30,iOS,Paid Social,West,35-44
+1176,2025-03-03,Android,Paid Social,Northeast,35-44
+1177,2025-01-01,iOS,Paid Social,Northeast,18-24
+1178,2025-01-27,Android,Paid Social,West,18-24
+1179,2025-03-03,Android,Referral,Northeast,25-34
+1180,2025-03-18,iOS,Organic,South,18-24
+1181,2025-01-03,Android,Search,South,35-44
+1182,2025-03-11,iOS,Search,Midwest,25-34
+1183,2025-03-13,iOS,Organic,Northeast,35-44
+1184,2025-01-27,iOS,Referral,Midwest,25-34
+1185,2025-01-09,iOS,Paid Social,South,25-34
+1186,2025-03-03,Web,Organic,South,18-24
+1187,2025-02-06,iOS,Search,South,25-34
+1188,2025-02-20,iOS,Organic,Northeast,25-34
+1189,2025-02-13,Android,Organic,Northeast,35-44
+1190,2025-01-24,iOS,Paid Social,South,35-44
+1191,2025-03-20,Web,Paid Social,Midwest,35-44
+1192,2025-02-28,Android,Paid Social,Midwest,45-54
+1193,2025-02-01,Android,Referral,West,25-34
+1194,2025-03-29,iOS,Paid Social,South,18-24
+1195,2025-02-21,iOS,Paid Social,Midwest,25-34
+1196,2025-03-03,iOS,Organic,South,35-44
+1197,2025-02-27,Android,Paid Social,Midwest,25-34
+1198,2025-02-21,iOS,Organic,West,35-44
+1199,2025-01-12,iOS,Organic,West,25-34
+1200,2025-02-08,Web,Paid Social,South,45-54
+1201,2025-01-02,Android,Organic,Midwest,45-54
+1202,2025-01-03,iOS,Organic,Northeast,18-24
+1203,2025-02-25,iOS,Organic,West,25-34
+1204,2025-03-22,Web,Search,South,25-34
+1205,2025-02-28,iOS,Search,South,25-34
+1206,2025-01-02,Android,Paid Social,Midwest,25-34
+1207,2025-01-02,Android,Search,South,35-44
+1208,2025-02-23,iOS,Referral,West,18-24
+1209,2025-03-28,Android,Paid Social,South,25-34
+1210,2025-01-01,iOS,Organic,South,35-44
+1211,2025-01-19,iOS,Referral,Northeast,18-24
+1212,2025-01-02,Android,Referral,Northeast,25-34
+1213,2025-02-22,Android,Paid Social,West,25-34
+1214,2025-02-13,Android,Referral,Midwest,35-44
+1215,2025-03-31,Android,Paid Social,Northeast,18-24
+1216,2025-02-01,iOS,Referral,Midwest,35-44
+1217,2025-03-11,iOS,Search,West,25-34
+1218,2025-02-01,iOS,Paid Social,Northeast,18-24
+1219,2025-03-09,iOS,Referral,Midwest,25-34
+1220,2025-02-24,iOS,Paid Social,Northeast,25-34
+1221,2025-03-16,iOS,Referral,West,25-34
+1222,2025-02-25,iOS,Referral,West,25-34
+1223,2025-01-17,iOS,Organic,Northeast,25-34
+1224,2025-02-07,Android,Paid Social,Midwest,18-24
+1225,2025-01-24,Android,Organic,South,18-24
+1226,2025-03-10,iOS,Referral,South,35-44
+1227,2025-03-11,Web,Paid Social,Northeast,25-34
+1228,2025-03-27,Android,Referral,Midwest,25-34
+1229,2025-01-11,iOS,Organic,South,35-44
+1230,2025-01-16,Android,Paid Social,West,25-34
+1231,2025-03-14,Android,Organic,Midwest,35-44
+1232,2025-02-28,Android,Search,South,25-34
+1233,2025-03-11,iOS,Search,Midwest,18-24
+1234,2025-03-21,Android,Search,Northeast,45-54
+1235,2025-01-03,iOS,Referral,Midwest,25-34
+1236,2025-01-20,Android,Referral,South,35-44
+1237,2025-02-28,Android,Organic,Northeast,25-34
+1238,2025-02-05,Android,Organic,Midwest,25-34
+1239,2025-01-19,Android,Paid Social,West,35-44
+1240,2025-03-31,Android,Referral,South,18-24
+1241,2025-03-08,iOS,Search,Northeast,35-44
+1242,2025-01-19,iOS,Organic,Midwest,25-34
+1243,2025-01-20,Android,Search,West,25-34
+1244,2025-03-12,iOS,Referral,South,25-34
+1245,2025-02-21,iOS,Paid Social,West,35-44
+1246,2025-02-02,iOS,Organic,Midwest,18-24
+1247,2025-02-09,iOS,Organic,Midwest,25-34
+1248,2025-02-08,Web,Paid Social,Northeast,35-44
+1249,2025-03-23,Android,Referral,West,35-44
+1250,2025-01-01,Web,Organic,Northeast,18-24
+1251,2025-01-11,Android,Paid Social,South,25-34
+1252,2025-02-26,Android,Search,Northeast,25-34
+1253,2025-03-30,iOS,Referral,South,25-34
+1254,2025-02-19,Android,Search,Midwest,25-34
+1255,2025-01-23,iOS,Paid Social,Midwest,35-44
+1256,2025-01-31,Android,Organic,West,18-24
+1257,2025-02-11,Android,Referral,South,35-44
+1258,2025-01-07,iOS,Paid Social,Midwest,35-44
+1259,2025-01-16,Web,Organic,West,25-34
+1260,2025-03-31,Android,Organic,West,25-34
+1261,2025-03-01,Android,Paid Social,Northeast,25-34
+1262,2025-01-02,iOS,Organic,West,25-34
+1263,2025-01-01,Android,Organic,Midwest,35-44
+1264,2025-02-17,Android,Organic,Northeast,25-34
+1265,2025-01-12,iOS,Organic,South,25-34
+1266,2025-03-10,iOS,Paid Social,South,25-34
+1267,2025-02-06,Android,Paid Social,Midwest,25-34
+1268,2025-02-01,iOS,Referral,Midwest,18-24
+1269,2025-01-09,Android,Organic,Northeast,18-24
+1270,2025-01-19,Web,Organic,Northeast,18-24
+1271,2025-02-17,Android,Paid Social,Midwest,25-34
+1272,2025-03-21,iOS,Paid Social,Midwest,35-44
+1273,2025-01-03,Android,Paid Social,South,35-44
+1274,2025-01-20,iOS,Paid Social,South,25-34
+1275,2025-01-24,iOS,Search,South,18-24
+1276,2025-02-23,Android,Organic,Midwest,18-24
+1277,2025-02-02,iOS,Paid Social,West,25-34
+1278,2025-01-24,iOS,Referral,Midwest,25-34
+1279,2025-03-16,Android,Paid Social,Midwest,25-34
+1280,2025-03-13,iOS,Organic,South,18-24
+1281,2025-02-05,iOS,Paid Social,Midwest,18-24
+1282,2025-02-07,Android,Referral,Northeast,18-24
+1283,2025-03-25,Android,Organic,Midwest,18-24
+1284,2025-03-30,Android,Organic,Midwest,35-44
+1285,2025-01-25,iOS,Organic,Midwest,18-24
+1286,2025-01-18,iOS,Referral,Midwest,25-34
+1287,2025-03-23,iOS,Organic,West,25-34
+1288,2025-03-07,iOS,Search,Midwest,35-44
+1289,2025-02-23,Android,Paid Social,Northeast,35-44
+1290,2025-02-04,iOS,Search,Northeast,35-44
+1291,2025-03-21,iOS,Search,Midwest,18-24
+1292,2025-03-02,Android,Paid Social,South,25-34
+1293,2025-02-10,Android,Organic,West,35-44
+1294,2025-02-02,Android,Organic,Midwest,18-24
+1295,2025-03-09,iOS,Organic,Midwest,25-34
+1296,2025-02-02,iOS,Referral,Midwest,35-44
+1297,2025-01-14,iOS,Organic,South,25-34
+1298,2025-01-21,iOS,Organic,South,18-24
+1299,2025-02-17,Android,Paid Social,South,18-24
+1300,2025-01-20,Android,Search,West,25-34
+1301,2025-01-08,Android,Organic,Northeast,18-24
+1302,2025-01-07,Android,Organic,West,35-44
+1303,2025-03-08,iOS,Organic,South,35-44
+1304,2025-01-17,Android,Search,Northeast,18-24
+1305,2025-02-02,iOS,Paid Social,Northeast,35-44
+1306,2025-02-17,Android,Organic,South,25-34
+1307,2025-03-17,Android,Organic,South,18-24
+1308,2025-02-28,iOS,Organic,West,35-44
+1309,2025-03-27,iOS,Organic,South,35-44
+1310,2025-01-22,Web,Search,Northeast,25-34
+1311,2025-01-30,iOS,Referral,Midwest,35-44
+1312,2025-02-07,iOS,Paid Social,South,35-44
+1313,2025-02-20,iOS,Search,South,35-44
+1314,2025-02-23,Android,Organic,West,25-34
+1315,2025-01-08,Android,Referral,West,35-44
+1316,2025-01-27,Android,Search,South,45-54
+1317,2025-01-27,iOS,Paid Social,Northeast,35-44
+1318,2025-01-21,Android,Referral,Northeast,18-24
+1319,2025-01-30,iOS,Organic,Midwest,25-34
+1320,2025-01-28,Android,Organic,South,25-34
+1321,2025-03-05,Android,Organic,West,18-24
+1322,2025-03-10,iOS,Paid Social,Northeast,45-54
+1323,2025-03-02,iOS,Referral,Midwest,18-24
+1324,2025-02-17,iOS,Search,South,18-24
+1325,2025-01-19,iOS,Paid Social,Northeast,45-54
+1326,2025-01-04,iOS,Search,South,25-34
+1327,2025-02-04,Android,Referral,South,18-24
+1328,2025-03-05,Android,Organic,Northeast,25-34
+1329,2025-02-18,iOS,Paid Social,Northeast,25-34
+1330,2025-01-17,iOS,Organic,Northeast,18-24
+1331,2025-02-13,iOS,Referral,South,45-54
+1332,2025-01-30,Android,Search,South,25-34
+1333,2025-02-15,iOS,Organic,Midwest,25-34
+1334,2025-01-06,Android,Referral,West,25-34
+1335,2025-02-06,Android,Paid Social,South,25-34
+1336,2025-01-24,Android,Paid Social,West,25-34
+1337,2025-02-15,Android,Paid Social,Northeast,25-34
+1338,2025-02-22,iOS,Paid Social,South,25-34
+1339,2025-03-01,Web,Organic,Midwest,35-44
+1340,2025-03-04,iOS,Organic,Midwest,18-24
+1341,2025-03-26,iOS,Organic,West,25-34
+1342,2025-02-01,Android,Paid Social,Northeast,35-44
+1343,2025-03-28,Web,Organic,West,18-24
+1344,2025-02-02,Android,Search,Northeast,18-24
+1345,2025-03-08,iOS,Paid Social,Midwest,25-34
+1346,2025-01-18,iOS,Referral,West,25-34
+1347,2025-01-25,Web,Paid Social,Midwest,18-24
+1348,2025-02-23,iOS,Paid Social,Midwest,25-34
+1349,2025-02-27,Android,Search,Northeast,25-34
+1350,2025-03-08,Android,Organic,West,25-34
+1351,2025-02-15,Android,Organic,West,25-34
+1352,2025-01-24,iOS,Referral,Midwest,25-34
+1353,2025-02-01,Android,Organic,Midwest,35-44
+1354,2025-02-16,iOS,Organic,Northeast,45-54
+1355,2025-03-27,Android,Paid Social,South,35-44
+1356,2025-01-23,Android,Organic,South,25-34
+1357,2025-03-07,Android,Paid Social,Midwest,25-34
+1358,2025-01-27,iOS,Organic,South,25-34
+1359,2025-01-02,Web,Search,South,18-24
+1360,2025-03-31,iOS,Referral,South,18-24
+1361,2025-01-17,iOS,Referral,South,35-44
+1362,2025-02-02,iOS,Paid Social,Midwest,25-34
+1363,2025-01-09,Android,Search,South,25-34
+1364,2025-02-12,Android,Organic,South,45-54
+1365,2025-02-17,Android,Search,Northeast,18-24
+1366,2025-02-08,iOS,Referral,Midwest,18-24
+1367,2025-02-11,iOS,Referral,West,18-24
+1368,2025-01-26,Android,Paid Social,West,25-34
+1369,2025-02-19,iOS,Organic,Northeast,25-34
+1370,2025-01-25,Android,Paid Social,Northeast,25-34
+1371,2025-01-24,Web,Referral,Midwest,25-34
+1372,2025-01-13,Web,Organic,West,35-44
+1373,2025-03-01,Web,Referral,South,35-44
+1374,2025-01-07,Android,Organic,Northeast,45-54
+1375,2025-02-26,iOS,Organic,West,35-44
+1376,2025-02-05,iOS,Organic,Midwest,25-34
+1377,2025-02-14,Android,Organic,South,18-24
+1378,2025-01-20,Android,Paid Social,Midwest,18-24
+1379,2025-03-06,iOS,Organic,Northeast,18-24
+1380,2025-01-08,iOS,Search,West,35-44
+1381,2025-01-16,iOS,Paid Social,West,35-44
+1382,2025-01-14,Android,Organic,West,25-34
+1383,2025-03-17,Android,Referral,West,18-24
+1384,2025-03-28,Android,Search,South,25-34
+1385,2025-01-15,iOS,Referral,South,45-54
+1386,2025-03-07,Web,Organic,Midwest,25-34
+1387,2025-02-01,Android,Search,South,35-44
+1388,2025-03-28,iOS,Referral,Northeast,35-44
+1389,2025-03-04,iOS,Organic,Northeast,45-54
+1390,2025-03-27,iOS,Organic,West,35-44
+1391,2025-02-20,iOS,Paid Social,Northeast,35-44
+1392,2025-01-25,Web,Organic,Midwest,18-24
+1393,2025-02-27,Android,Referral,South,18-24
+1394,2025-03-04,Android,Paid Social,South,25-34
+1395,2025-03-03,iOS,Search,South,18-24
+1396,2025-01-22,iOS,Paid Social,Northeast,45-54
+1397,2025-02-27,Android,Organic,South,25-34
+1398,2025-02-27,iOS,Organic,West,35-44
+1399,2025-03-27,Android,Paid Social,West,25-34
+1400,2025-02-18,Web,Referral,West,25-34
+1401,2025-02-21,Android,Referral,Northeast,45-54
+1402,2025-02-11,Android,Organic,South,25-34
+1403,2025-03-11,iOS,Organic,Northeast,25-34
+1404,2025-01-15,iOS,Organic,South,18-24
+1405,2025-02-23,iOS,Referral,Midwest,35-44
+1406,2025-03-01,Android,Organic,Midwest,25-34
+1407,2025-01-08,iOS,Paid Social,Northeast,25-34
+1408,2025-02-22,iOS,Paid Social,West,25-34
+1409,2025-03-01,Android,Search,Northeast,35-44
+1410,2025-01-05,iOS,Organic,West,35-44
+1411,2025-03-09,iOS,Organic,South,25-34
+1412,2025-01-06,iOS,Referral,West,25-34
+1413,2025-02-16,Web,Paid Social,West,35-44
+1414,2025-02-24,Android,Organic,South,25-34
+1415,2025-02-09,Android,Search,Midwest,25-34
+1416,2025-02-21,iOS,Referral,South,25-34
+1417,2025-01-16,Web,Organic,Northeast,35-44
+1418,2025-01-13,Android,Organic,Northeast,25-34
+1419,2025-01-30,iOS,Paid Social,Northeast,25-34
+1420,2025-01-19,Android,Referral,Northeast,35-44
+1421,2025-01-17,iOS,Organic,Northeast,25-34
+1422,2025-03-04,Android,Referral,Midwest,18-24
+1423,2025-01-19,Android,Paid Social,Midwest,25-34
+1424,2025-02-27,iOS,Organic,West,35-44
+1425,2025-02-24,Web,Referral,Northeast,45-54
+1426,2025-03-31,Android,Search,South,25-34
+1427,2025-03-31,Android,Organic,Northeast,25-34
+1428,2025-03-03,iOS,Organic,Midwest,18-24
+1429,2025-01-23,iOS,Paid Social,Northeast,35-44
+1430,2025-01-09,iOS,Search,Midwest,35-44
+1431,2025-01-12,Android,Search,West,18-24
+1432,2025-01-01,iOS,Paid Social,West,18-24
+1433,2025-02-27,Android,Referral,West,35-44
+1434,2025-01-01,Android,Paid Social,Midwest,25-34
+1435,2025-02-03,iOS,Paid Social,Northeast,25-34
+1436,2025-02-17,Android,Organic,Northeast,18-24
+1437,2025-03-30,iOS,Organic,South,25-34
+1438,2025-01-01,Web,Organic,Midwest,25-34
+1439,2025-01-16,Android,Paid Social,South,35-44
+1440,2025-03-02,iOS,Organic,West,25-34
+1441,2025-03-05,iOS,Search,Northeast,25-34
+1442,2025-03-04,iOS,Organic,Midwest,25-34
+1443,2025-03-10,Android,Organic,South,25-34
+1444,2025-01-22,Android,Paid Social,South,18-24
+1445,2025-03-08,Android,Referral,South,25-34
+1446,2025-03-17,iOS,Organic,Northeast,35-44
+1447,2025-01-26,iOS,Organic,Northeast,18-24
+1448,2025-01-16,iOS,Search,Northeast,18-24
+1449,2025-02-20,Android,Organic,Midwest,18-24
+1450,2025-03-27,Android,Organic,Northeast,25-34
+1451,2025-02-26,iOS,Referral,Midwest,35-44
+1452,2025-01-29,iOS,Organic,South,18-24
+1453,2025-03-19,Android,Paid Social,South,45-54
+1454,2025-03-10,Android,Paid Social,West,18-24
+1455,2025-02-16,Android,Organic,Northeast,35-44
+1456,2025-03-03,Android,Organic,South,25-34
+1457,2025-03-10,iOS,Organic,Northeast,35-44
+1458,2025-03-17,iOS,Organic,Midwest,25-34
+1459,2025-01-16,Android,Organic,South,25-34
+1460,2025-03-31,Android,Referral,Northeast,35-44
+1461,2025-03-31,iOS,Paid Social,South,35-44
+1462,2025-02-17,Android,Paid Social,South,25-34
+1463,2025-03-26,Android,Search,Northeast,18-24
+1464,2025-02-08,Android,Referral,South,18-24
+1465,2025-02-02,Android,Organic,South,35-44
+1466,2025-01-23,iOS,Search,South,25-34
+1467,2025-01-10,Android,Organic,South,25-34
+1468,2025-03-10,Android,Organic,Midwest,35-44
+1469,2025-02-03,Android,Referral,South,35-44
+1470,2025-02-21,Android,Paid Social,West,25-34
+1471,2025-01-10,Android,Paid Social,South,35-44
+1472,2025-01-19,iOS,Organic,Northeast,35-44
+1473,2025-02-27,Android,Paid Social,West,25-34
+1474,2025-01-01,Android,Organic,Midwest,25-34
+1475,2025-03-10,Android,Search,West,35-44
+1476,2025-01-04,Android,Organic,West,25-34
+1477,2025-01-16,Android,Search,West,45-54
+1478,2025-01-24,Android,Paid Social,Northeast,18-24
+1479,2025-03-21,Android,Referral,Northeast,18-24
+1480,2025-01-02,iOS,Referral,Northeast,45-54
+1481,2025-02-01,iOS,Referral,Midwest,25-34
+1482,2025-03-25,Android,Organic,Northeast,25-34
+1483,2025-01-24,Android,Organic,Northeast,35-44
+1484,2025-01-12,iOS,Organic,West,35-44
+1485,2025-02-19,iOS,Search,Northeast,25-34
+1486,2025-02-04,Android,Referral,South,18-24
+1487,2025-02-02,iOS,Paid Social,Northeast,35-44
+1488,2025-02-02,iOS,Organic,Midwest,35-44
+1489,2025-03-02,iOS,Paid Social,Midwest,18-24
+1490,2025-02-20,iOS,Paid Social,South,35-44
+1491,2025-02-12,iOS,Paid Social,Midwest,35-44
+1492,2025-01-12,iOS,Referral,Midwest,25-34
+1493,2025-03-08,iOS,Search,West,35-44
+1494,2025-03-06,Android,Organic,South,25-34
+1495,2025-02-02,Android,Paid Social,West,25-34
+1496,2025-02-09,Android,Paid Social,West,35-44
+1497,2025-03-15,iOS,Organic,Northeast,35-44
+1498,2025-02-12,iOS,Organic,South,35-44
+1499,2025-02-13,Android,Organic,Northeast,25-34
+1500,2025-01-29,iOS,Search,Northeast,18-24
+1501,2025-01-13,Android,Paid Social,West,18-24
+1502,2025-01-12,Android,Paid Social,Midwest,25-34
+1503,2025-02-15,Android,Search,South,18-24
+1504,2025-01-02,iOS,Referral,Midwest,25-34
+1505,2025-02-04,iOS,Organic,West,25-34
+1506,2025-03-28,Android,Paid Social,West,35-44
+1507,2025-03-22,iOS,Paid Social,West,25-34
+1508,2025-03-31,Android,Referral,West,25-34
+1509,2025-01-08,Android,Referral,West,25-34
+1510,2025-01-26,Web,Referral,West,18-24
+1511,2025-03-15,iOS,Organic,Midwest,18-24
+1512,2025-03-31,Android,Referral,Northeast,25-34
+1513,2025-02-03,Android,Organic,Midwest,35-44
+1514,2025-01-07,iOS,Organic,South,18-24
+1515,2025-03-09,iOS,Organic,Midwest,35-44
+1516,2025-02-27,Android,Organic,West,45-54
+1517,2025-03-16,iOS,Organic,Midwest,35-44
+1518,2025-01-29,iOS,Referral,Northeast,18-24
+1519,2025-02-05,iOS,Search,South,45-54
+1520,2025-03-30,Android,Organic,Midwest,18-24
+1521,2025-01-21,Android,Organic,Northeast,25-34
+1522,2025-02-05,Android,Organic,Midwest,35-44
+1523,2025-01-10,iOS,Organic,South,25-34
+1524,2025-03-14,iOS,Organic,Midwest,25-34
+1525,2025-01-24,Android,Search,West,25-34
+1526,2025-03-05,Android,Organic,Midwest,25-34
+1527,2025-02-18,iOS,Paid Social,Northeast,25-34
+1528,2025-02-05,Android,Organic,Midwest,25-34
+1529,2025-03-23,Web,Search,Northeast,45-54
+1530,2025-01-24,Android,Referral,South,45-54
+1531,2025-01-23,Android,Search,Midwest,35-44
+1532,2025-03-03,Web,Referral,South,25-34
+1533,2025-02-06,iOS,Organic,South,35-44
+1534,2025-01-12,Android,Organic,Midwest,45-54
+1535,2025-02-24,Web,Referral,Northeast,35-44
+1536,2025-01-13,iOS,Paid Social,South,25-34
+1537,2025-01-23,Android,Paid Social,South,18-24
+1538,2025-03-30,Android,Organic,Midwest,18-24
+1539,2025-01-30,Android,Organic,Midwest,25-34
+1540,2025-01-17,Android,Paid Social,Midwest,25-34
+1541,2025-03-03,Web,Paid Social,Midwest,35-44
+1542,2025-03-25,Android,Referral,Midwest,25-34
+1543,2025-03-30,iOS,Organic,West,18-24
+1544,2025-03-27,Android,Paid Social,Midwest,25-34
+1545,2025-01-13,iOS,Organic,Northeast,25-34
+1546,2025-02-28,iOS,Organic,South,18-24
+1547,2025-01-19,Android,Paid Social,Northeast,35-44
+1548,2025-02-18,Android,Organic,Northeast,25-34
+1549,2025-01-12,iOS,Organic,West,35-44
+1550,2025-03-02,Web,Organic,Midwest,25-34
+1551,2025-01-19,Android,Organic,South,25-34
+1552,2025-03-17,Android,Organic,Northeast,25-34
+1553,2025-01-09,iOS,Organic,Midwest,35-44
+1554,2025-03-12,Web,Organic,Midwest,18-24
+1555,2025-01-28,Web,Organic,West,35-44
+1556,2025-03-19,Android,Paid Social,West,25-34
+1557,2025-02-21,iOS,Organic,West,35-44
+1558,2025-03-24,iOS,Organic,South,35-44
+1559,2025-01-16,iOS,Organic,Northeast,25-34
+1560,2025-03-10,iOS,Referral,West,35-44
+1561,2025-01-12,iOS,Search,West,18-24
+1562,2025-01-25,Web,Referral,West,35-44
+1563,2025-02-21,Android,Referral,Northeast,25-34
+1564,2025-03-26,iOS,Paid Social,Northeast,25-34
+1565,2025-02-22,iOS,Referral,West,35-44
+1566,2025-01-23,iOS,Paid Social,West,35-44
+1567,2025-01-16,iOS,Organic,Midwest,18-24
+1568,2025-02-26,iOS,Organic,West,35-44
+1569,2025-02-08,iOS,Organic,South,25-34
+1570,2025-02-22,Android,Search,South,25-34
+1571,2025-02-11,Web,Paid Social,West,35-44
+1572,2025-02-27,iOS,Referral,Northeast,25-34
+1573,2025-02-08,iOS,Organic,Midwest,25-34
+1574,2025-01-14,Android,Paid Social,Northeast,35-44
+1575,2025-01-05,iOS,Organic,West,18-24
+1576,2025-02-04,iOS,Organic,South,35-44
+1577,2025-03-28,Android,Referral,Midwest,18-24
+1578,2025-03-16,iOS,Paid Social,Northeast,18-24
+1579,2025-01-18,Android,Organic,Northeast,18-24
+1580,2025-03-17,Android,Referral,West,25-34
+1581,2025-01-09,iOS,Organic,Midwest,35-44
+1582,2025-03-15,iOS,Search,South,18-24
+1583,2025-02-27,Android,Organic,West,18-24
+1584,2025-01-17,iOS,Organic,Midwest,45-54
+1585,2025-01-07,iOS,Organic,Northeast,18-24
+1586,2025-02-15,Android,Organic,West,35-44
+1587,2025-01-13,Android,Organic,Northeast,18-24
+1588,2025-02-09,iOS,Paid Social,Northeast,35-44
+1589,2025-02-11,Android,Search,West,25-34
+1590,2025-01-09,iOS,Referral,West,35-44
+1591,2025-02-19,Android,Organic,West,35-44
+1592,2025-01-27,Android,Paid Social,West,25-34
+1593,2025-03-07,Android,Organic,West,18-24
+1594,2025-01-05,Android,Organic,Northeast,35-44
+1595,2025-01-29,Web,Referral,South,25-34
+1596,2025-02-06,iOS,Paid Social,South,18-24
+1597,2025-02-07,Android,Organic,West,18-24
+1598,2025-03-24,iOS,Organic,Northeast,35-44
+1599,2025-01-08,iOS,Search,South,25-34
+1600,2025-03-06,iOS,Organic,South,25-34
+1601,2025-03-27,Web,Paid Social,South,25-34
+1602,2025-01-17,Web,Paid Social,Northeast,35-44
+1603,2025-03-12,iOS,Organic,West,45-54
+1604,2025-03-30,iOS,Organic,West,45-54
+1605,2025-02-14,Android,Paid Social,West,18-24
+1606,2025-01-04,iOS,Referral,Midwest,35-44
+1607,2025-02-05,iOS,Paid Social,Midwest,25-34
+1608,2025-03-11,Android,Paid Social,Midwest,25-34
+1609,2025-01-31,Android,Search,Northeast,25-34
+1610,2025-01-19,Web,Referral,South,18-24
+1611,2025-03-02,iOS,Paid Social,South,45-54
+1612,2025-02-23,iOS,Paid Social,Northeast,18-24
+1613,2025-02-08,Android,Paid Social,Northeast,35-44
+1614,2025-03-15,Android,Referral,West,35-44
+1615,2025-03-31,Android,Paid Social,West,35-44
+1616,2025-01-19,Android,Paid Social,Midwest,18-24
+1617,2025-02-08,iOS,Organic,Midwest,25-34
+1618,2025-03-08,Android,Paid Social,Northeast,35-44
+1619,2025-02-14,iOS,Organic,Midwest,25-34
+1620,2025-01-13,iOS,Organic,South,25-34
+1621,2025-02-27,Android,Organic,Northeast,25-34
+1622,2025-01-20,iOS,Paid Social,Northeast,25-34
+1623,2025-03-13,iOS,Paid Social,South,35-44
+1624,2025-03-02,Android,Organic,West,25-34
+1625,2025-02-08,Android,Paid Social,West,25-34
+1626,2025-01-01,Android,Paid Social,South,25-34
+1627,2025-01-03,iOS,Organic,South,25-34
+1628,2025-03-18,Android,Referral,Midwest,18-24
+1629,2025-03-03,iOS,Referral,Northeast,25-34
+1630,2025-03-04,iOS,Referral,Midwest,25-34
+1631,2025-01-25,Web,Paid Social,South,25-34
+1632,2025-02-25,Android,Paid Social,Midwest,25-34
+1633,2025-02-02,Android,Organic,South,25-34
+1634,2025-02-07,iOS,Organic,Midwest,25-34
+1635,2025-01-06,Android,Organic,Midwest,18-24
+1636,2025-02-27,Android,Search,West,45-54
+1637,2025-02-13,Android,Organic,South,25-34
+1638,2025-02-14,Android,Organic,Midwest,18-24
+1639,2025-02-01,iOS,Search,Northeast,18-24
+1640,2025-02-14,iOS,Search,Midwest,45-54
+1641,2025-03-02,Android,Referral,Midwest,18-24
+1642,2025-02-16,iOS,Organic,Northeast,35-44
+1643,2025-01-21,iOS,Organic,South,18-24
+1644,2025-03-21,Web,Paid Social,West,45-54
+1645,2025-03-26,Android,Organic,West,35-44
+1646,2025-03-16,Android,Organic,West,25-34
+1647,2025-02-05,Android,Paid Social,Northeast,18-24
+1648,2025-01-19,Android,Search,Midwest,25-34
+1649,2025-01-20,iOS,Organic,South,25-34
+1650,2025-02-26,iOS,Referral,Midwest,25-34
+1651,2025-01-18,iOS,Referral,West,25-34
+1652,2025-02-16,iOS,Organic,Midwest,18-24
+1653,2025-02-18,Android,Referral,Northeast,25-34
+1654,2025-01-14,iOS,Organic,Northeast,25-34
+1655,2025-01-15,Android,Organic,South,25-34
+1656,2025-01-31,iOS,Referral,South,18-24
+1657,2025-01-01,iOS,Organic,West,45-54
+1658,2025-02-23,iOS,Search,South,25-34
+1659,2025-01-03,iOS,Organic,Midwest,35-44
+1660,2025-01-16,iOS,Paid Social,Northeast,25-34
+1661,2025-03-28,iOS,Paid Social,Northeast,18-24
+1662,2025-02-26,iOS,Organic,Northeast,25-34
+1663,2025-03-16,Android,Organic,South,25-34
+1664,2025-01-12,iOS,Paid Social,Northeast,35-44
+1665,2025-03-15,iOS,Referral,Northeast,35-44
+1666,2025-01-16,Android,Referral,Northeast,25-34
+1667,2025-03-13,iOS,Paid Social,West,45-54
+1668,2025-03-17,Android,Referral,West,25-34
+1669,2025-01-24,Android,Referral,South,45-54
+1670,2025-01-28,iOS,Referral,Northeast,45-54
+1671,2025-01-08,Android,Paid Social,South,18-24
+1672,2025-02-05,iOS,Paid Social,Northeast,25-34
+1673,2025-03-31,Android,Referral,Northeast,25-34
+1674,2025-01-08,iOS,Paid Social,Northeast,35-44
+1675,2025-02-27,Android,Referral,South,25-34
+1676,2025-03-01,iOS,Paid Social,South,45-54
+1677,2025-02-19,Android,Organic,Northeast,35-44
+1678,2025-01-28,Android,Organic,Midwest,18-24
+1679,2025-02-10,iOS,Paid Social,South,18-24
+1680,2025-03-05,iOS,Paid Social,West,35-44
+1681,2025-01-27,Android,Referral,South,18-24
+1682,2025-03-04,Android,Organic,Northeast,35-44
+1683,2025-01-17,iOS,Referral,Midwest,25-34
+1684,2025-03-14,Android,Search,Northeast,25-34
+1685,2025-02-02,Web,Organic,West,18-24
+1686,2025-03-25,Android,Search,South,35-44
+1687,2025-03-18,iOS,Search,South,18-24
+1688,2025-01-29,Android,Referral,Northeast,35-44
+1689,2025-01-13,iOS,Referral,Northeast,25-34
+1690,2025-02-15,Web,Search,West,35-44
+1691,2025-02-04,Android,Paid Social,Midwest,25-34
+1692,2025-01-06,iOS,Organic,West,18-24
+1693,2025-03-23,Android,Referral,Midwest,35-44
+1694,2025-03-10,iOS,Paid Social,South,18-24
+1695,2025-02-16,Web,Paid Social,Midwest,25-34
+1696,2025-01-25,Web,Organic,Midwest,18-24
+1697,2025-03-07,Android,Referral,South,35-44
+1698,2025-01-10,iOS,Organic,South,45-54
+1699,2025-02-25,Android,Search,South,25-34
+1700,2025-01-30,iOS,Organic,West,25-34
+1701,2025-01-05,iOS,Organic,South,35-44
+1702,2025-02-02,Android,Paid Social,Northeast,18-24
+1703,2025-03-06,iOS,Organic,South,45-54
+1704,2025-01-18,iOS,Referral,South,18-24
+1705,2025-02-18,Web,Search,South,45-54
+1706,2025-01-11,iOS,Referral,Midwest,35-44
+1707,2025-03-26,iOS,Organic,West,35-44
+1708,2025-01-26,Web,Organic,South,35-44
+1709,2025-03-04,iOS,Referral,West,25-34
+1710,2025-03-30,Android,Search,Northeast,25-34
+1711,2025-03-27,Web,Paid Social,Northeast,18-24
+1712,2025-02-28,Web,Paid Social,South,25-34
+1713,2025-01-27,Android,Organic,Northeast,25-34
+1714,2025-02-18,iOS,Search,West,35-44
+1715,2025-03-18,iOS,Paid Social,Midwest,25-34
+1716,2025-02-02,Android,Organic,South,18-24
+1717,2025-01-01,Android,Organic,Northeast,25-34
+1718,2025-01-21,Android,Search,West,35-44
+1719,2025-02-24,iOS,Organic,West,18-24
+1720,2025-01-06,iOS,Organic,Northeast,25-34
+1721,2025-03-22,iOS,Paid Social,West,35-44
+1722,2025-03-10,Android,Organic,West,25-34
+1723,2025-01-05,iOS,Organic,South,25-34
+1724,2025-01-03,Web,Referral,West,25-34
+1725,2025-02-22,Android,Search,Northeast,35-44
+1726,2025-01-23,iOS,Referral,South,25-34
+1727,2025-02-22,Android,Search,Northeast,35-44
+1728,2025-02-06,iOS,Paid Social,Midwest,18-24
+1729,2025-03-15,Android,Referral,Northeast,35-44
+1730,2025-03-15,Android,Paid Social,Northeast,25-34
+1731,2025-03-24,Android,Referral,South,25-34
+1732,2025-01-17,Android,Search,West,25-34
+1733,2025-03-26,iOS,Organic,Northeast,25-34
+1734,2025-03-19,iOS,Paid Social,South,18-24
+1735,2025-03-14,Android,Paid Social,Midwest,35-44
+1736,2025-01-01,iOS,Organic,South,25-34
+1737,2025-02-20,iOS,Organic,South,45-54
+1738,2025-02-14,iOS,Referral,West,35-44
+1739,2025-03-18,Android,Search,Northeast,25-34
+1740,2025-01-04,iOS,Paid Social,Midwest,35-44
+1741,2025-03-03,Android,Organic,South,25-34
+1742,2025-03-06,Web,Organic,Northeast,18-24
+1743,2025-02-01,iOS,Search,Northeast,45-54
+1744,2025-02-03,iOS,Paid Social,South,35-44
+1745,2025-03-13,iOS,Organic,Northeast,25-34
+1746,2025-02-08,Android,Paid Social,South,25-34
+1747,2025-01-26,iOS,Organic,South,25-34
+1748,2025-02-03,iOS,Paid Social,South,45-54
+1749,2025-02-23,iOS,Search,Midwest,18-24
+1750,2025-01-03,Android,Paid Social,South,25-34
+1751,2025-02-19,iOS,Referral,West,25-34
+1752,2025-01-12,Android,Paid Social,Northeast,25-34
+1753,2025-03-06,Web,Referral,Midwest,25-34
+1754,2025-02-23,iOS,Referral,Northeast,18-24
+1755,2025-01-05,Android,Organic,Midwest,18-24
+1756,2025-02-26,iOS,Paid Social,West,25-34
+1757,2025-01-17,Android,Organic,Midwest,45-54
+1758,2025-02-16,Android,Referral,Midwest,18-24
+1759,2025-01-23,Android,Paid Social,Midwest,35-44
+1760,2025-03-20,iOS,Search,Northeast,35-44
+1761,2025-03-26,iOS,Organic,South,35-44
+1762,2025-01-14,iOS,Referral,Northeast,35-44
+1763,2025-03-07,iOS,Referral,South,25-34
+1764,2025-03-16,iOS,Referral,Northeast,18-24
+1765,2025-02-20,iOS,Organic,West,25-34
+1766,2025-02-07,iOS,Paid Social,West,25-34
+1767,2025-03-05,iOS,Referral,Midwest,35-44
+1768,2025-02-07,Android,Organic,West,25-34
+1769,2025-02-19,Android,Organic,Midwest,35-44
+1770,2025-03-23,iOS,Paid Social,South,18-24
+1771,2025-01-30,iOS,Paid Social,West,45-54
+1772,2025-03-20,iOS,Organic,South,25-34
+1773,2025-02-20,Web,Organic,Northeast,25-34
+1774,2025-03-04,iOS,Organic,South,25-34
+1775,2025-02-21,Android,Referral,Northeast,35-44
+1776,2025-02-07,Web,Referral,South,25-34
+1777,2025-03-29,Android,Referral,South,45-54
+1778,2025-03-20,Android,Search,West,45-54
+1779,2025-01-30,Android,Paid Social,South,35-44
+1780,2025-02-20,Web,Organic,West,18-24
+1781,2025-03-22,Android,Organic,West,35-44
+1782,2025-01-05,Android,Organic,Midwest,35-44
+1783,2025-01-29,Android,Search,Midwest,18-24
+1784,2025-01-04,Android,Paid Social,Northeast,18-24
+1785,2025-01-10,Android,Organic,South,18-24
+1786,2025-02-25,iOS,Paid Social,Northeast,18-24
+1787,2025-01-17,iOS,Paid Social,South,25-34
+1788,2025-03-15,iOS,Referral,Midwest,45-54
+1789,2025-01-17,iOS,Organic,Midwest,25-34
+1790,2025-03-25,iOS,Search,South,25-34
+1791,2025-03-29,iOS,Paid Social,South,45-54
+1792,2025-03-10,Android,Organic,Midwest,25-34
+1793,2025-02-03,iOS,Search,Midwest,35-44
+1794,2025-01-06,Android,Organic,Northeast,25-34
+1795,2025-02-22,iOS,Search,Midwest,25-34
+1796,2025-03-07,iOS,Search,South,25-34
+1797,2025-03-18,Android,Referral,Northeast,25-34
+1798,2025-02-12,Android,Referral,South,18-24
+1799,2025-03-16,iOS,Organic,West,35-44
+1800,2025-01-23,Android,Search,Northeast,25-34
+1801,2025-02-24,Android,Paid Social,South,35-44
+1802,2025-03-21,iOS,Referral,Midwest,25-34
+1803,2025-03-16,iOS,Search,West,18-24
+1804,2025-01-16,Web,Search,South,35-44
+1805,2025-01-08,Android,Referral,Northeast,18-24
+1806,2025-01-04,Android,Organic,South,35-44
+1807,2025-01-04,Android,Search,West,45-54
+1808,2025-02-25,iOS,Paid Social,Northeast,35-44
+1809,2025-01-25,iOS,Search,West,18-24
+1810,2025-03-08,iOS,Referral,South,25-34
+1811,2025-03-08,Android,Organic,Midwest,35-44
+1812,2025-01-27,Android,Paid Social,Midwest,35-44
+1813,2025-02-01,Android,Paid Social,South,18-24
+1814,2025-02-19,iOS,Referral,South,25-34
+1815,2025-03-02,iOS,Organic,South,25-34
+1816,2025-02-20,Android,Paid Social,Northeast,18-24
+1817,2025-01-19,Android,Organic,West,25-34
+1818,2025-01-21,Android,Referral,West,25-34
+1819,2025-01-05,iOS,Paid Social,West,35-44
+1820,2025-03-23,Android,Organic,South,45-54
+1821,2025-02-11,iOS,Organic,West,25-34
+1822,2025-03-02,Web,Organic,South,25-34
+1823,2025-01-22,iOS,Paid Social,Northeast,25-34
+1824,2025-01-21,Android,Organic,Midwest,45-54
+1825,2025-03-11,iOS,Organic,South,45-54
+1826,2025-01-01,Web,Search,South,45-54
+1827,2025-01-05,Android,Search,Midwest,35-44
+1828,2025-01-12,iOS,Paid Social,Midwest,25-34
+1829,2025-03-31,iOS,Search,Northeast,35-44
+1830,2025-02-15,iOS,Organic,West,25-34
+1831,2025-02-03,iOS,Paid Social,South,25-34
+1832,2025-02-18,Web,Paid Social,West,35-44
+1833,2025-03-19,iOS,Paid Social,South,18-24
+1834,2025-03-31,Android,Paid Social,Northeast,18-24
+1835,2025-02-14,Android,Paid Social,Midwest,25-34
+1836,2025-01-27,Android,Paid Social,Northeast,25-34
+1837,2025-03-14,iOS,Referral,Midwest,35-44
+1838,2025-01-26,iOS,Organic,West,18-24
+1839,2025-02-16,Android,Organic,West,18-24
+1840,2025-03-27,Web,Organic,Northeast,18-24
+1841,2025-02-25,iOS,Organic,Midwest,18-24
+1842,2025-03-04,iOS,Paid Social,Northeast,18-24
+1843,2025-02-17,Android,Organic,Midwest,35-44
+1844,2025-03-02,Web,Search,Midwest,25-34
+1845,2025-03-22,iOS,Organic,West,35-44
+1846,2025-01-26,iOS,Organic,West,45-54
+1847,2025-02-05,Android,Referral,Midwest,35-44
+1848,2025-01-01,iOS,Organic,Midwest,18-24
+1849,2025-01-08,iOS,Paid Social,Midwest,18-24
+1850,2025-02-21,Android,Referral,West,35-44
+1851,2025-03-20,Web,Organic,West,25-34
+1852,2025-02-16,iOS,Organic,South,35-44
+1853,2025-02-25,Android,Paid Social,Midwest,35-44
+1854,2025-03-27,Android,Organic,South,45-54
+1855,2025-01-14,Android,Organic,Midwest,45-54
+1856,2025-03-31,Android,Organic,West,25-34
+1857,2025-01-28,Android,Organic,South,25-34
+1858,2025-03-28,iOS,Paid Social,South,45-54
+1859,2025-03-19,Android,Referral,Northeast,25-34
+1860,2025-03-29,Android,Paid Social,Midwest,18-24
+1861,2025-01-02,Android,Organic,West,25-34
+1862,2025-01-26,Android,Organic,Northeast,25-34
+1863,2025-01-14,iOS,Search,Northeast,35-44
+1864,2025-02-28,Android,Paid Social,Midwest,35-44
+1865,2025-02-25,Android,Search,Northeast,25-34
+1866,2025-01-07,iOS,Paid Social,Midwest,45-54
+1867,2025-01-03,Android,Paid Social,Northeast,35-44
+1868,2025-01-23,iOS,Paid Social,Midwest,25-34
+1869,2025-01-18,iOS,Organic,West,25-34
+1870,2025-02-07,iOS,Paid Social,Midwest,25-34
+1871,2025-01-15,iOS,Paid Social,Midwest,35-44
+1872,2025-03-05,iOS,Organic,South,18-24
+1873,2025-03-30,Android,Organic,West,25-34
+1874,2025-01-28,iOS,Referral,West,35-44
+1875,2025-03-15,Android,Search,West,25-34
+1876,2025-02-08,Android,Paid Social,Northeast,25-34
+1877,2025-02-26,Android,Organic,South,18-24
+1878,2025-01-17,Android,Organic,West,25-34
+1879,2025-03-27,iOS,Referral,Northeast,35-44
+1880,2025-03-31,Android,Organic,Northeast,25-34
+1881,2025-02-13,iOS,Search,Northeast,18-24
+1882,2025-01-25,Android,Organic,South,35-44
+1883,2025-01-17,Web,Paid Social,Northeast,45-54
+1884,2025-01-13,iOS,Paid Social,South,25-34
+1885,2025-03-25,iOS,Referral,Midwest,18-24
+1886,2025-01-25,Android,Paid Social,Northeast,25-34
+1887,2025-03-09,Android,Paid Social,West,35-44
+1888,2025-01-10,Android,Search,Northeast,18-24
+1889,2025-03-08,iOS,Organic,Midwest,25-34
+1890,2025-01-18,Android,Search,Midwest,25-34
+1891,2025-03-27,iOS,Organic,Northeast,18-24
+1892,2025-02-03,Android,Referral,Midwest,35-44
+1893,2025-01-08,Web,Paid Social,South,35-44
+1894,2025-02-09,Android,Organic,South,35-44
+1895,2025-03-24,Android,Search,Northeast,18-24
+1896,2025-02-11,iOS,Organic,South,18-24
+1897,2025-02-10,Android,Organic,South,25-34
+1898,2025-01-06,Android,Paid Social,West,25-34
+1899,2025-02-21,iOS,Paid Social,Northeast,18-24
+1900,2025-01-26,Android,Paid Social,Midwest,18-24
+1901,2025-03-05,iOS,Organic,Northeast,18-24
+1902,2025-02-28,Android,Organic,South,45-54
+1903,2025-02-25,Android,Organic,West,35-44
+1904,2025-02-28,Android,Organic,Northeast,45-54
+1905,2025-03-11,iOS,Paid Social,Northeast,18-24
+1906,2025-02-02,Android,Referral,South,45-54
+1907,2025-02-22,Android,Search,South,18-24
+1908,2025-01-22,Web,Referral,Northeast,25-34
+1909,2025-01-21,iOS,Organic,South,35-44
+1910,2025-03-11,iOS,Paid Social,South,25-34
+1911,2025-03-11,Android,Organic,South,25-34
+1912,2025-01-04,iOS,Organic,South,18-24
+1913,2025-03-16,Android,Paid Social,South,18-24
+1914,2025-03-03,Android,Organic,West,25-34
+1915,2025-03-03,Android,Organic,South,35-44
+1916,2025-01-24,Android,Search,Midwest,35-44
+1917,2025-02-24,Android,Paid Social,Northeast,25-34
+1918,2025-01-09,iOS,Paid Social,West,25-34
+1919,2025-01-03,iOS,Organic,West,18-24
+1920,2025-01-31,iOS,Organic,South,18-24
+1921,2025-02-09,iOS,Search,Northeast,45-54
+1922,2025-02-05,Android,Organic,Midwest,18-24
+1923,2025-01-24,Android,Paid Social,South,35-44
+1924,2025-01-06,Android,Organic,Northeast,18-24
+1925,2025-03-07,Android,Paid Social,South,35-44
+1926,2025-03-25,Web,Organic,South,35-44
+1927,2025-03-16,Android,Referral,South,18-24
+1928,2025-01-04,Android,Referral,South,25-34
+1929,2025-03-20,Android,Referral,South,35-44
+1930,2025-01-06,iOS,Organic,South,25-34
+1931,2025-02-20,iOS,Referral,South,18-24
+1932,2025-03-03,iOS,Paid Social,Midwest,35-44
+1933,2025-02-26,Web,Paid Social,West,18-24
+1934,2025-03-07,Android,Paid Social,Midwest,35-44
+1935,2025-03-20,iOS,Organic,South,25-34
+1936,2025-03-16,Android,Organic,South,18-24
+1937,2025-01-08,Android,Referral,Midwest,35-44
+1938,2025-01-26,iOS,Organic,Midwest,25-34
+1939,2025-02-20,iOS,Paid Social,West,25-34
+1940,2025-02-14,Android,Paid Social,Midwest,25-34
+1941,2025-02-13,iOS,Search,West,25-34
+1942,2025-01-05,iOS,Search,South,25-34
+1943,2025-03-11,Android,Search,Northeast,18-24
+1944,2025-01-26,Android,Organic,Northeast,25-34
+1945,2025-03-09,Android,Organic,Northeast,25-34
+1946,2025-01-19,iOS,Paid Social,Northeast,35-44
+1947,2025-03-25,iOS,Organic,South,35-44
+1948,2025-01-20,Android,Organic,Northeast,25-34
+1949,2025-01-12,Android,Paid Social,Midwest,35-44
+1950,2025-02-16,Android,Paid Social,Midwest,35-44
+1951,2025-01-01,iOS,Search,Northeast,25-34
+1952,2025-03-31,Android,Organic,Midwest,25-34
+1953,2025-01-14,iOS,Organic,West,25-34
+1954,2025-03-05,iOS,Organic,South,35-44
+1955,2025-02-07,iOS,Search,Northeast,18-24
+1956,2025-02-06,iOS,Referral,Northeast,25-34
+1957,2025-01-11,Android,Referral,South,35-44
+1958,2025-03-18,Android,Search,Midwest,18-24
+1959,2025-01-03,iOS,Paid Social,South,18-24
+1960,2025-02-02,Android,Paid Social,South,25-34
+1961,2025-01-06,iOS,Organic,Midwest,25-34
+1962,2025-02-19,Android,Paid Social,South,35-44
+1963,2025-01-10,Web,Paid Social,Midwest,35-44
+1964,2025-01-05,iOS,Paid Social,Midwest,18-24
+1965,2025-01-23,Android,Search,South,18-24
+1966,2025-01-10,iOS,Search,West,35-44
+1967,2025-02-13,iOS,Referral,Midwest,25-34
+1968,2025-01-02,iOS,Referral,South,25-34
+1969,2025-01-13,Android,Referral,Midwest,18-24
+1970,2025-02-09,Android,Organic,West,25-34
+1971,2025-01-02,iOS,Organic,West,25-34
+1972,2025-03-25,Android,Referral,Northeast,25-34
+1973,2025-03-06,Android,Referral,Midwest,25-34
+1974,2025-03-04,Android,Organic,Midwest,25-34
+1975,2025-03-14,Android,Search,South,25-34
+1976,2025-01-17,Android,Organic,Midwest,18-24
+1977,2025-01-09,iOS,Organic,Northeast,18-24
+1978,2025-03-16,iOS,Referral,West,25-34
+1979,2025-01-15,Web,Organic,West,25-34
+1980,2025-01-24,iOS,Organic,Northeast,25-34
+1981,2025-02-07,Web,Organic,Midwest,25-34
+1982,2025-02-04,Android,Referral,Midwest,35-44
+1983,2025-02-18,iOS,Paid Social,Northeast,35-44
+1984,2025-03-10,iOS,Referral,South,25-34
+1985,2025-03-03,iOS,Paid Social,West,18-24
+1986,2025-03-01,Web,Organic,Northeast,18-24
+1987,2025-02-19,iOS,Search,Northeast,25-34
+1988,2025-03-19,iOS,Organic,Midwest,25-34
+1989,2025-03-16,iOS,Search,West,18-24
+1990,2025-01-09,iOS,Paid Social,Midwest,35-44
+1991,2025-02-03,Android,Search,Northeast,18-24
+1992,2025-03-17,iOS,Organic,South,25-34
+1993,2025-02-04,Android,Paid Social,West,25-34
+1994,2025-01-01,iOS,Organic,Northeast,35-44
+1995,2025-02-09,iOS,Organic,Northeast,18-24
+1996,2025-03-05,Android,Paid Social,South,35-44
+1997,2025-01-22,iOS,Organic,Northeast,35-44
+1998,2025-03-01,Web,Paid Social,Northeast,18-24
+1999,2025-03-05,Android,Organic,West,18-24
+2000,2025-03-13,iOS,Organic,West,25-34
+2001,2025-01-11,Android,Referral,West,35-44
+2002,2025-01-14,iOS,Paid Social,Midwest,35-44
+2003,2025-03-01,iOS,Paid Social,South,25-34
+2004,2025-01-30,Web,Paid Social,West,35-44
+2005,2025-02-04,Android,Referral,Midwest,18-24
+2006,2025-03-26,Web,Organic,Midwest,18-24
+2007,2025-02-06,Android,Referral,South,45-54
+2008,2025-01-05,Android,Search,South,35-44
+2009,2025-03-24,iOS,Referral,Northeast,25-34
+2010,2025-03-19,iOS,Paid Social,Midwest,35-44
+2011,2025-01-26,Android,Paid Social,West,45-54
+2012,2025-03-03,iOS,Referral,South,35-44
+2013,2025-01-04,Android,Paid Social,Midwest,35-44
+2014,2025-03-30,Android,Organic,West,35-44
+2015,2025-02-11,iOS,Organic,Midwest,18-24
+2016,2025-03-30,Android,Referral,South,35-44
+2017,2025-01-18,Android,Organic,Northeast,18-24
+2018,2025-02-09,iOS,Referral,Midwest,35-44
+2019,2025-03-13,Android,Paid Social,West,25-34
+2020,2025-02-08,Android,Paid Social,South,35-44
+2021,2025-01-14,iOS,Organic,Northeast,25-34
+2022,2025-02-01,Android,Organic,West,18-24
+2023,2025-02-20,Web,Search,West,25-34
+2024,2025-02-07,iOS,Search,West,45-54
+2025,2025-01-23,Android,Referral,Midwest,45-54
+2026,2025-03-04,iOS,Paid Social,South,25-34
+2027,2025-01-15,Android,Referral,West,45-54
+2028,2025-01-25,Android,Paid Social,Midwest,35-44
+2029,2025-01-17,iOS,Paid Social,South,25-34
+2030,2025-03-07,iOS,Organic,South,18-24
+2031,2025-03-19,Android,Paid Social,Midwest,45-54
+2032,2025-02-22,Android,Referral,Midwest,25-34
+2033,2025-02-20,Android,Search,West,35-44
+2034,2025-02-08,iOS,Organic,South,35-44
+2035,2025-02-20,Android,Referral,Northeast,35-44
+2036,2025-03-11,Android,Paid Social,Midwest,35-44
+2037,2025-01-06,Web,Paid Social,South,25-34
+2038,2025-03-08,iOS,Organic,South,25-34
+2039,2025-01-07,Android,Paid Social,West,25-34
+2040,2025-02-20,Android,Paid Social,Northeast,18-24
+2041,2025-03-13,iOS,Organic,West,25-34
+2042,2025-02-11,Android,Referral,Northeast,35-44
+2043,2025-03-05,iOS,Referral,Northeast,35-44
+2044,2025-01-15,Android,Paid Social,Midwest,18-24
+2045,2025-01-29,Android,Search,South,25-34
+2046,2025-02-02,iOS,Organic,South,18-24
+2047,2025-01-27,Android,Organic,South,18-24
+2048,2025-02-05,Android,Referral,Northeast,18-24
+2049,2025-01-29,iOS,Organic,South,35-44
+2050,2025-02-07,Web,Organic,Midwest,18-24
+2051,2025-02-26,Web,Organic,Northeast,35-44
+2052,2025-01-27,Android,Organic,Northeast,18-24
+2053,2025-02-24,iOS,Referral,Northeast,35-44
+2054,2025-02-02,Android,Organic,Northeast,35-44
+2055,2025-03-09,Android,Paid Social,Midwest,45-54
+2056,2025-03-27,iOS,Organic,South,35-44
+2057,2025-03-07,Android,Referral,Midwest,45-54
+2058,2025-01-10,Android,Organic,South,35-44
+2059,2025-01-05,Android,Referral,Midwest,35-44
+2060,2025-03-15,iOS,Paid Social,West,18-24
+2061,2025-02-07,Android,Organic,West,25-34
+2062,2025-01-13,Web,Paid Social,West,18-24
+2063,2025-01-31,iOS,Organic,West,25-34
+2064,2025-02-16,Android,Paid Social,Northeast,25-34
+2065,2025-03-29,Android,Organic,Northeast,35-44
+2066,2025-02-21,Android,Search,Midwest,45-54
+2067,2025-02-25,iOS,Organic,Midwest,25-34
+2068,2025-01-15,Android,Referral,West,25-34
+2069,2025-01-29,Android,Organic,South,45-54
+2070,2025-01-08,Android,Organic,West,25-34
+2071,2025-01-05,Android,Paid Social,Midwest,35-44
+2072,2025-01-29,Web,Search,West,18-24
+2073,2025-02-16,iOS,Organic,Midwest,35-44
+2074,2025-03-09,iOS,Organic,West,25-34
+2075,2025-03-17,Android,Organic,South,35-44
+2076,2025-02-14,iOS,Organic,West,25-34
+2077,2025-01-02,iOS,Organic,South,18-24
+2078,2025-01-27,iOS,Paid Social,South,18-24
+2079,2025-02-05,iOS,Organic,Midwest,25-34
+2080,2025-02-05,iOS,Organic,South,45-54
+2081,2025-01-26,Web,Referral,Northeast,35-44
+2082,2025-02-12,iOS,Paid Social,Northeast,25-34
+2083,2025-01-27,Android,Organic,Northeast,25-34
+2084,2025-03-10,Android,Organic,Midwest,25-34
+2085,2025-01-20,Web,Paid Social,Northeast,35-44
+2086,2025-01-11,iOS,Organic,Midwest,35-44
+2087,2025-03-15,Android,Paid Social,Midwest,25-34
+2088,2025-02-07,Android,Organic,Northeast,35-44
+2089,2025-01-06,Android,Paid Social,South,35-44
+2090,2025-03-13,Android,Organic,West,45-54
+2091,2025-01-23,Android,Paid Social,Midwest,45-54
+2092,2025-02-16,iOS,Referral,Northeast,35-44
+2093,2025-03-31,Android,Paid Social,Midwest,35-44
+2094,2025-02-15,Android,Organic,South,25-34
+2095,2025-01-12,Android,Organic,South,35-44
+2096,2025-03-31,Web,Organic,Northeast,25-34
+2097,2025-01-13,iOS,Organic,Midwest,25-34
+2098,2025-03-03,Web,Organic,West,25-34
+2099,2025-03-23,iOS,Referral,West,35-44
+2100,2025-03-30,iOS,Paid Social,Midwest,18-24
+2101,2025-03-01,iOS,Paid Social,Midwest,25-34
+2102,2025-02-12,iOS,Paid Social,Midwest,25-34
+2103,2025-03-17,Android,Paid Social,Northeast,18-24
+2104,2025-03-09,iOS,Organic,South,18-24
+2105,2025-01-05,iOS,Referral,West,35-44
+2106,2025-02-06,Web,Organic,Northeast,35-44
+2107,2025-03-13,Android,Referral,Midwest,25-34
+2108,2025-01-31,Android,Referral,Midwest,35-44
+2109,2025-01-09,Android,Referral,South,35-44
+2110,2025-02-20,Android,Paid Social,Midwest,25-34
+2111,2025-01-29,iOS,Organic,Northeast,35-44
+2112,2025-03-19,iOS,Paid Social,Northeast,45-54
+2113,2025-02-09,Android,Paid Social,South,25-34
+2114,2025-02-10,iOS,Paid Social,Northeast,18-24
+2115,2025-03-27,Android,Search,West,45-54
+2116,2025-01-11,iOS,Organic,Northeast,25-34
+2117,2025-01-23,iOS,Organic,Northeast,18-24
+2118,2025-01-01,Android,Organic,Northeast,25-34
+2119,2025-02-15,Android,Organic,West,25-34
+2120,2025-01-21,Android,Paid Social,Midwest,35-44
+2121,2025-03-31,Android,Referral,Northeast,25-34
+2122,2025-02-05,iOS,Referral,South,25-34
+2123,2025-02-23,iOS,Referral,West,35-44
+2124,2025-03-28,Android,Search,South,25-34
+2125,2025-02-26,Android,Referral,Northeast,18-24
+2126,2025-01-01,iOS,Organic,South,25-34
+2127,2025-03-04,Android,Referral,Northeast,35-44
+2128,2025-02-23,iOS,Organic,West,18-24
+2129,2025-02-24,Android,Organic,South,25-34
+2130,2025-02-09,iOS,Paid Social,South,25-34
+2131,2025-01-15,Android,Organic,Northeast,25-34
+2132,2025-01-21,Android,Organic,Northeast,25-34
+2133,2025-02-16,iOS,Organic,Midwest,25-34
+2134,2025-03-14,Android,Organic,Northeast,35-44
+2135,2025-02-22,iOS,Search,Northeast,25-34
+2136,2025-01-09,iOS,Organic,Midwest,35-44
+2137,2025-03-15,iOS,Organic,Northeast,18-24
+2138,2025-02-21,iOS,Paid Social,Northeast,45-54
+2139,2025-02-26,iOS,Paid Social,Midwest,25-34
+2140,2025-01-26,Android,Search,West,35-44
+2141,2025-02-10,Android,Organic,West,25-34
+2142,2025-02-04,Android,Paid Social,Northeast,25-34
+2143,2025-03-04,iOS,Referral,Northeast,18-24
+2144,2025-01-25,iOS,Search,Midwest,45-54
+2145,2025-03-31,iOS,Paid Social,Midwest,25-34
+2146,2025-03-16,iOS,Referral,West,25-34
+2147,2025-02-07,Android,Organic,South,35-44
+2148,2025-01-02,iOS,Paid Social,Northeast,25-34
+2149,2025-01-07,Android,Paid Social,South,35-44
+2150,2025-03-23,Android,Search,South,35-44
+2151,2025-02-03,Android,Organic,Midwest,35-44
+2152,2025-01-17,Android,Organic,Northeast,25-34
+2153,2025-02-12,Android,Organic,Northeast,25-34
+2154,2025-02-28,Android,Organic,Midwest,18-24
+2155,2025-02-20,Android,Organic,South,35-44
+2156,2025-02-23,Android,Search,Midwest,25-34
+2157,2025-01-24,iOS,Paid Social,West,25-34
+2158,2025-01-25,iOS,Paid Social,Northeast,45-54
+2159,2025-03-12,iOS,Referral,West,18-24
+2160,2025-02-21,Android,Paid Social,Midwest,35-44
+2161,2025-03-11,iOS,Organic,Northeast,45-54
+2162,2025-03-29,Web,Organic,West,35-44
+2163,2025-02-02,Android,Organic,West,35-44
+2164,2025-02-18,iOS,Paid Social,South,25-34
+2165,2025-01-29,iOS,Paid Social,Northeast,18-24
+2166,2025-03-04,Android,Organic,West,35-44
+2167,2025-01-22,Android,Paid Social,West,25-34
+2168,2025-01-26,Android,Search,South,18-24
+2169,2025-01-28,iOS,Referral,West,35-44
+2170,2025-03-26,iOS,Referral,West,25-34
+2171,2025-02-18,iOS,Referral,West,45-54
+2172,2025-03-12,iOS,Organic,South,35-44
+2173,2025-03-22,Android,Referral,West,35-44
+2174,2025-03-25,Android,Organic,West,35-44
+2175,2025-02-18,Android,Referral,Northeast,35-44
+2176,2025-01-20,Android,Paid Social,Northeast,35-44
+2177,2025-03-27,Android,Organic,South,25-34
+2178,2025-03-04,Android,Referral,Midwest,25-34
+2179,2025-03-02,iOS,Search,Northeast,35-44
+2180,2025-02-18,Web,Organic,South,35-44
+2181,2025-03-12,iOS,Referral,West,25-34
+2182,2025-01-01,Web,Organic,West,18-24
+2183,2025-01-13,Android,Paid Social,South,25-34
+2184,2025-03-28,iOS,Paid Social,West,18-24
+2185,2025-02-20,Android,Paid Social,West,45-54
+2186,2025-02-25,Android,Search,Midwest,45-54
+2187,2025-03-24,Android,Search,West,18-24
+2188,2025-03-03,Web,Referral,Northeast,35-44
+2189,2025-02-01,Web,Organic,West,18-24
+2190,2025-01-30,iOS,Search,South,35-44
+2191,2025-01-29,iOS,Organic,Midwest,25-34
+2192,2025-02-18,Web,Search,West,35-44
+2193,2025-02-14,Android,Organic,South,25-34
+2194,2025-01-30,iOS,Organic,Northeast,18-24
+2195,2025-01-16,iOS,Referral,West,25-34
+2196,2025-02-09,Android,Organic,Midwest,18-24
+2197,2025-01-19,Web,Organic,West,25-34
+2198,2025-01-18,Android,Organic,South,18-24
+2199,2025-01-01,Android,Organic,Midwest,25-34
+2200,2025-03-19,iOS,Organic,West,35-44
+2201,2025-02-16,iOS,Organic,Northeast,35-44
+2202,2025-03-07,Android,Paid Social,Midwest,35-44
+2203,2025-02-07,iOS,Organic,Northeast,45-54
+2204,2025-02-20,iOS,Referral,South,18-24
+2205,2025-03-04,iOS,Organic,West,18-24
+2206,2025-01-04,Android,Search,Northeast,25-34
+2207,2025-01-01,Web,Search,South,35-44
+2208,2025-01-08,iOS,Organic,West,45-54
+2209,2025-01-29,Android,Referral,South,18-24
+2210,2025-02-24,Android,Referral,Northeast,25-34
+2211,2025-01-03,Web,Search,South,18-24
+2212,2025-02-01,iOS,Paid Social,Midwest,35-44
+2213,2025-01-10,Android,Organic,West,25-34
+2214,2025-03-15,iOS,Paid Social,South,18-24
+2215,2025-03-24,Android,Paid Social,Northeast,25-34
+2216,2025-02-03,Android,Paid Social,West,35-44
+2217,2025-03-28,iOS,Organic,Midwest,35-44
+2218,2025-02-24,Android,Search,West,18-24
+2219,2025-02-01,Android,Search,Midwest,35-44
+2220,2025-02-19,iOS,Organic,West,25-34
+2221,2025-01-07,Android,Organic,South,35-44
+2222,2025-01-08,iOS,Organic,South,35-44
+2223,2025-03-06,Android,Referral,Northeast,18-24
+2224,2025-02-26,iOS,Referral,Midwest,18-24
+2225,2025-03-08,Android,Paid Social,Northeast,35-44
+2226,2025-03-29,iOS,Paid Social,South,18-24
+2227,2025-03-28,Android,Paid Social,Midwest,35-44
+2228,2025-02-28,Android,Organic,Northeast,35-44
+2229,2025-03-13,Android,Paid Social,Northeast,35-44
+2230,2025-02-23,Android,Referral,Northeast,25-34
+2231,2025-03-08,Android,Search,Northeast,25-34
+2232,2025-02-20,iOS,Search,Northeast,35-44
+2233,2025-01-08,iOS,Search,Midwest,18-24
+2234,2025-02-03,Web,Paid Social,Northeast,35-44
+2235,2025-02-04,iOS,Paid Social,Midwest,35-44
+2236,2025-03-29,Android,Referral,Northeast,25-34
+2237,2025-03-19,Web,Search,South,35-44
+2238,2025-02-01,iOS,Organic,South,18-24
+2239,2025-02-15,Android,Organic,Northeast,25-34
+2240,2025-01-16,Android,Organic,West,45-54
+2241,2025-03-09,Android,Paid Social,South,45-54
+2242,2025-02-06,iOS,Organic,Midwest,25-34
+2243,2025-02-23,iOS,Organic,Northeast,45-54
+2244,2025-03-26,Android,Organic,Midwest,25-34
+2245,2025-01-14,Android,Organic,West,25-34
+2246,2025-02-24,Android,Search,Northeast,25-34
+2247,2025-02-17,Android,Organic,South,45-54
+2248,2025-03-23,iOS,Referral,Midwest,18-24
+2249,2025-01-07,Android,Paid Social,South,25-34
+2250,2025-03-15,iOS,Search,South,25-34
+2251,2025-01-07,Web,Organic,Northeast,35-44
+2252,2025-02-02,Android,Search,Midwest,25-34
+2253,2025-01-23,Android,Paid Social,West,25-34
+2254,2025-03-26,Web,Search,South,18-24
+2255,2025-01-19,iOS,Search,Northeast,25-34
+2256,2025-01-19,Android,Organic,Northeast,35-44
+2257,2025-02-05,iOS,Organic,West,25-34
+2258,2025-01-29,Web,Organic,Northeast,35-44
+2259,2025-03-01,iOS,Paid Social,South,18-24
+2260,2025-03-23,Android,Organic,Northeast,35-44
+2261,2025-01-02,Android,Organic,Midwest,25-34
+2262,2025-01-01,iOS,Paid Social,Midwest,18-24
+2263,2025-02-16,iOS,Organic,South,25-34
+2264,2025-03-10,Android,Organic,Midwest,35-44
+2265,2025-01-20,Android,Paid Social,West,35-44
+2266,2025-01-11,iOS,Organic,Northeast,25-34
+2267,2025-01-02,iOS,Paid Social,South,35-44
+2268,2025-03-08,iOS,Paid Social,West,18-24
+2269,2025-03-28,Android,Paid Social,Northeast,18-24
+2270,2025-01-12,Android,Search,West,25-34
+2271,2025-01-20,iOS,Paid Social,South,35-44
+2272,2025-01-05,iOS,Paid Social,South,35-44
+2273,2025-02-06,iOS,Paid Social,West,25-34
+2274,2025-02-07,iOS,Referral,Northeast,18-24
+2275,2025-01-09,iOS,Search,Midwest,25-34
+2276,2025-02-22,iOS,Search,Midwest,18-24
+2277,2025-02-13,iOS,Referral,West,18-24
+2278,2025-03-27,Android,Organic,South,25-34
+2279,2025-01-24,iOS,Organic,Northeast,25-34
+2280,2025-03-22,Android,Organic,Northeast,25-34
+2281,2025-03-15,Android,Search,South,25-34
+2282,2025-01-30,Android,Referral,Midwest,18-24
+2283,2025-02-28,Android,Referral,Northeast,18-24
+2284,2025-03-28,Android,Organic,West,35-44
+2285,2025-03-22,Android,Referral,Midwest,18-24
+2286,2025-03-22,Android,Organic,West,25-34
+2287,2025-01-14,Android,Organic,Midwest,18-24
+2288,2025-01-09,Android,Paid Social,South,25-34
+2289,2025-02-09,Android,Paid Social,West,18-24
+2290,2025-03-07,iOS,Paid Social,West,18-24
+2291,2025-01-25,iOS,Search,South,25-34
+2292,2025-03-14,iOS,Organic,West,45-54
+2293,2025-01-22,Android,Paid Social,Midwest,18-24
+2294,2025-01-04,Android,Paid Social,Northeast,25-34
+2295,2025-01-26,Web,Organic,Northeast,35-44
+2296,2025-02-27,Android,Referral,South,25-34
+2297,2025-01-29,Android,Referral,Midwest,35-44
+2298,2025-03-28,iOS,Referral,West,18-24
+2299,2025-02-06,Android,Search,West,45-54
+2300,2025-03-16,Android,Referral,Northeast,25-34
+2301,2025-03-11,Web,Organic,West,25-34
+2302,2025-01-18,iOS,Referral,Northeast,35-44
+2303,2025-03-26,Android,Organic,South,25-34
+2304,2025-02-11,Android,Organic,West,25-34
+2305,2025-02-10,Android,Organic,Midwest,35-44
+2306,2025-02-07,Android,Referral,West,25-34
+2307,2025-02-03,Android,Referral,Northeast,18-24
+2308,2025-01-17,iOS,Organic,South,35-44
+2309,2025-02-06,Android,Referral,Northeast,18-24
+2310,2025-01-25,Android,Search,West,35-44
+2311,2025-03-17,Android,Organic,Northeast,45-54
+2312,2025-03-28,Android,Organic,Northeast,25-34
+2313,2025-03-27,iOS,Referral,South,25-34
+2314,2025-03-26,iOS,Organic,Midwest,18-24
+2315,2025-01-27,Web,Paid Social,West,18-24
+2316,2025-02-26,Android,Organic,South,45-54
+2317,2025-01-31,Web,Paid Social,Midwest,18-24
+2318,2025-01-06,iOS,Referral,Northeast,25-34
+2319,2025-02-09,Android,Referral,Midwest,35-44
+2320,2025-01-12,Android,Referral,Northeast,35-44
+2321,2025-02-22,Web,Search,Northeast,25-34
+2322,2025-03-12,iOS,Referral,South,25-34
+2323,2025-01-10,Android,Referral,Northeast,35-44
+2324,2025-02-14,Android,Organic,South,45-54
+2325,2025-01-17,iOS,Paid Social,Midwest,25-34
+2326,2025-01-26,Android,Organic,Midwest,25-34
+2327,2025-03-26,Android,Referral,Northeast,18-24
+2328,2025-03-03,Web,Organic,South,18-24
+2329,2025-02-15,Android,Paid Social,Northeast,25-34
+2330,2025-03-05,iOS,Organic,South,45-54
+2331,2025-01-02,iOS,Referral,South,35-44
+2332,2025-02-23,iOS,Search,South,45-54
+2333,2025-03-06,iOS,Paid Social,Midwest,25-34
+2334,2025-02-20,Android,Search,South,35-44
+2335,2025-02-22,iOS,Organic,Midwest,35-44
+2336,2025-02-05,Web,Paid Social,South,25-34
+2337,2025-01-26,Web,Search,Midwest,25-34
+2338,2025-01-29,Android,Organic,West,25-34
+2339,2025-01-21,Web,Search,Midwest,35-44
+2340,2025-01-11,Android,Organic,Midwest,25-34
+2341,2025-02-09,Android,Organic,Northeast,45-54
+2342,2025-01-11,iOS,Search,South,18-24
+2343,2025-02-05,Android,Organic,West,35-44
+2344,2025-02-28,Android,Search,Northeast,25-34
+2345,2025-02-08,Android,Search,South,35-44
+2346,2025-02-23,Android,Organic,West,25-34
+2347,2025-02-24,Android,Paid Social,West,45-54
+2348,2025-01-24,Android,Organic,West,25-34
+2349,2025-01-22,iOS,Paid Social,South,25-34
+2350,2025-03-10,Web,Organic,West,25-34
+2351,2025-02-25,Android,Organic,West,25-34
+2352,2025-02-02,iOS,Paid Social,Northeast,25-34
+2353,2025-02-05,Android,Paid Social,Midwest,25-34
+2354,2025-01-20,iOS,Search,South,35-44
+2355,2025-03-24,Android,Referral,Midwest,25-34
+2356,2025-03-22,Android,Referral,Northeast,35-44
+2357,2025-03-03,iOS,Paid Social,Midwest,25-34
+2358,2025-03-14,Web,Referral,West,25-34
+2359,2025-01-26,Android,Organic,West,45-54
+2360,2025-03-07,iOS,Referral,South,25-34
+2361,2025-03-14,Android,Search,South,45-54
+2362,2025-03-14,Web,Organic,South,18-24
+2363,2025-02-09,iOS,Referral,Northeast,18-24
+2364,2025-01-17,iOS,Referral,South,35-44
+2365,2025-01-01,iOS,Search,Northeast,35-44
+2366,2025-03-30,iOS,Referral,West,18-24
+2367,2025-03-02,Android,Organic,Midwest,25-34
+2368,2025-02-12,Android,Organic,West,35-44
+2369,2025-02-11,iOS,Organic,West,25-34
+2370,2025-01-25,Android,Referral,West,35-44
+2371,2025-02-08,iOS,Organic,South,25-34
+2372,2025-02-04,Web,Search,South,25-34
+2373,2025-01-03,Web,Organic,South,45-54
+2374,2025-02-13,iOS,Organic,Midwest,18-24
+2375,2025-02-20,Android,Paid Social,South,25-34
+2376,2025-01-12,Android,Referral,Northeast,35-44
+2377,2025-01-19,iOS,Organic,West,18-24
+2378,2025-02-13,iOS,Paid Social,Midwest,25-34
+2379,2025-02-28,Android,Paid Social,Midwest,25-34
+2380,2025-02-18,Android,Organic,Midwest,25-34
+2381,2025-03-02,Web,Organic,Midwest,25-34
+2382,2025-01-17,Android,Referral,Midwest,25-34
+2383,2025-03-15,Android,Paid Social,Northeast,25-34
+2384,2025-02-26,Android,Organic,West,25-34
+2385,2025-02-24,Android,Referral,Midwest,35-44
+2386,2025-02-16,Android,Search,West,18-24
+2387,2025-01-12,iOS,Paid Social,South,25-34
+2388,2025-03-03,Android,Paid Social,Midwest,45-54
+2389,2025-03-21,Android,Search,Midwest,25-34
+2390,2025-03-29,iOS,Search,West,35-44
+2391,2025-03-24,Android,Referral,Midwest,25-34
+2392,2025-01-08,iOS,Paid Social,Midwest,35-44
+2393,2025-01-21,Android,Paid Social,Midwest,45-54
+2394,2025-03-22,Android,Referral,Northeast,18-24
+2395,2025-03-28,iOS,Organic,Northeast,25-34
+2396,2025-03-21,iOS,Paid Social,Midwest,25-34
+2397,2025-03-11,iOS,Referral,Northeast,25-34
+2398,2025-03-13,Android,Referral,South,18-24
+2399,2025-01-25,iOS,Paid Social,Midwest,35-44
+2400,2025-03-23,Web,Referral,South,18-24
+2401,2025-03-30,iOS,Organic,West,25-34
+2402,2025-01-12,Web,Paid Social,South,35-44
+2403,2025-01-15,Web,Referral,West,18-24
+2404,2025-02-28,Android,Organic,Midwest,45-54
+2405,2025-01-26,Android,Organic,West,35-44
+2406,2025-01-26,Android,Search,West,25-34
+2407,2025-02-16,Android,Organic,South,25-34
+2408,2025-02-01,iOS,Organic,South,18-24
+2409,2025-01-10,iOS,Search,South,35-44
+2410,2025-01-16,iOS,Referral,Midwest,18-24
+2411,2025-03-12,iOS,Referral,Midwest,35-44
+2412,2025-01-17,iOS,Search,South,35-44
+2413,2025-01-23,Android,Organic,Midwest,18-24
+2414,2025-01-26,Web,Referral,Midwest,35-44
+2415,2025-03-26,iOS,Paid Social,West,18-24
+2416,2025-03-27,Android,Referral,West,45-54
+2417,2025-01-07,iOS,Paid Social,South,18-24
+2418,2025-01-14,Android,Paid Social,Midwest,25-34
+2419,2025-03-20,Web,Paid Social,West,25-34
+2420,2025-01-07,Android,Paid Social,Northeast,35-44
+2421,2025-01-09,Web,Referral,Midwest,25-34
+2422,2025-02-17,iOS,Paid Social,Northeast,18-24
+2423,2025-03-13,Android,Paid Social,South,25-34
+2424,2025-02-28,Android,Paid Social,Midwest,25-34
+2425,2025-03-28,iOS,Paid Social,South,35-44
+2426,2025-03-23,Web,Referral,South,35-44
+2427,2025-02-08,iOS,Referral,South,25-34
+2428,2025-01-18,Android,Referral,South,25-34
+2429,2025-02-28,iOS,Search,South,18-24
+2430,2025-01-17,iOS,Referral,Midwest,25-34
+2431,2025-01-14,Android,Paid Social,Northeast,25-34
+2432,2025-01-31,Android,Referral,Midwest,25-34
+2433,2025-01-24,iOS,Search,Midwest,18-24
+2434,2025-03-01,iOS,Paid Social,Midwest,25-34
+2435,2025-02-14,Android,Referral,West,45-54
+2436,2025-01-03,iOS,Referral,West,25-34
+2437,2025-02-06,iOS,Paid Social,Midwest,25-34
+2438,2025-02-12,Web,Organic,Northeast,35-44
+2439,2025-02-09,Android,Paid Social,Midwest,35-44
+2440,2025-03-31,iOS,Search,South,25-34
+2441,2025-02-24,Android,Referral,West,25-34
+2442,2025-03-28,Android,Paid Social,West,35-44
+2443,2025-02-08,Android,Search,Midwest,18-24
+2444,2025-01-15,Android,Paid Social,Midwest,25-34
+2445,2025-01-04,iOS,Paid Social,Northeast,18-24
+2446,2025-03-27,iOS,Referral,Northeast,25-34
+2447,2025-01-25,iOS,Referral,South,25-34
+2448,2025-01-13,Android,Organic,Midwest,35-44
+2449,2025-03-23,iOS,Paid Social,Midwest,18-24
+2450,2025-02-02,Android,Paid Social,Midwest,25-34
+2451,2025-01-16,iOS,Paid Social,West,25-34
+2452,2025-02-11,iOS,Paid Social,South,25-34
+2453,2025-03-07,Android,Paid Social,Northeast,35-44
+2454,2025-02-24,Android,Organic,West,25-34
+2455,2025-02-11,iOS,Paid Social,West,45-54
+2456,2025-02-03,Android,Organic,West,25-34
+2457,2025-01-30,iOS,Paid Social,West,25-34
+2458,2025-01-13,Android,Search,South,35-44
+2459,2025-01-13,Android,Referral,Midwest,25-34
+2460,2025-01-18,iOS,Paid Social,Northeast,18-24
+2461,2025-02-01,Android,Organic,Northeast,35-44
+2462,2025-02-08,Android,Organic,West,25-34
+2463,2025-02-15,Android,Paid Social,West,35-44
+2464,2025-01-29,iOS,Organic,South,45-54
+2465,2025-03-03,iOS,Paid Social,West,25-34
+2466,2025-03-03,Web,Organic,Northeast,25-34
+2467,2025-02-26,iOS,Referral,Northeast,25-34
+2468,2025-01-16,Android,Paid Social,Midwest,25-34
+2469,2025-02-25,Android,Organic,Midwest,35-44
+2470,2025-01-10,Android,Referral,Northeast,35-44
+2471,2025-01-30,iOS,Organic,Northeast,25-34
+2472,2025-01-25,iOS,Organic,South,18-24
+2473,2025-03-25,Android,Paid Social,South,25-34
+2474,2025-01-05,iOS,Paid Social,Northeast,25-34
+2475,2025-03-06,iOS,Referral,West,35-44
+2476,2025-02-18,iOS,Organic,Midwest,18-24
+2477,2025-01-03,iOS,Paid Social,Northeast,35-44
+2478,2025-02-14,Android,Organic,West,35-44
+2479,2025-01-14,iOS,Organic,Northeast,35-44
+2480,2025-01-30,iOS,Search,Midwest,25-34
+2481,2025-03-09,iOS,Referral,Midwest,35-44
+2482,2025-01-18,Android,Organic,South,25-34
+2483,2025-03-03,Android,Paid Social,South,35-44
+2484,2025-02-06,iOS,Organic,South,25-34
+2485,2025-01-25,Android,Search,South,25-34
+2486,2025-02-17,Android,Organic,Midwest,25-34
+2487,2025-03-06,Android,Organic,West,18-24
+2488,2025-02-22,Android,Paid Social,West,25-34
+2489,2025-03-20,iOS,Paid Social,West,45-54
+2490,2025-03-14,iOS,Paid Social,Northeast,18-24
+2491,2025-01-15,iOS,Organic,South,25-34
+2492,2025-02-18,iOS,Organic,South,25-34
+2493,2025-03-29,Web,Paid Social,Midwest,25-34
+2494,2025-03-09,iOS,Organic,Midwest,18-24
+2495,2025-01-12,iOS,Search,Northeast,25-34
+2496,2025-02-28,Android,Organic,Northeast,18-24
+2497,2025-02-06,Android,Paid Social,West,18-24
+2498,2025-03-02,iOS,Referral,Midwest,35-44
+2499,2025-02-12,iOS,Organic,South,25-34
+2500,2025-03-11,iOS,Paid Social,West,45-54
+2501,2025-02-08,Android,Referral,South,18-24
+2502,2025-02-25,iOS,Organic,West,25-34
+2503,2025-03-04,iOS,Search,South,18-24
+2504,2025-02-15,Android,Paid Social,Northeast,25-34
+2505,2025-03-29,iOS,Organic,West,45-54
+2506,2025-01-11,Android,Paid Social,South,35-44
+2507,2025-03-03,Android,Organic,South,18-24
+2508,2025-03-18,iOS,Referral,Midwest,25-34
+2509,2025-01-25,Web,Referral,West,25-34
+2510,2025-03-12,Android,Referral,South,18-24
+2511,2025-02-21,iOS,Search,Midwest,18-24
+2512,2025-01-04,Android,Referral,South,45-54
+2513,2025-02-28,Android,Paid Social,West,45-54
+2514,2025-03-13,Android,Organic,Northeast,45-54
+2515,2025-01-20,iOS,Paid Social,West,35-44
+2516,2025-03-04,Web,Organic,West,35-44
+2517,2025-02-23,iOS,Referral,South,25-34
+2518,2025-03-15,iOS,Paid Social,South,18-24
+2519,2025-02-26,iOS,Organic,West,18-24
+2520,2025-03-31,iOS,Organic,Midwest,35-44
+2521,2025-02-10,Android,Paid Social,Midwest,35-44
+2522,2025-01-03,iOS,Paid Social,Midwest,35-44
+2523,2025-01-06,iOS,Paid Social,South,45-54
+2524,2025-01-05,Android,Paid Social,South,35-44
+2525,2025-01-05,iOS,Paid Social,West,45-54
+2526,2025-02-23,iOS,Referral,Northeast,18-24
+2527,2025-02-16,iOS,Organic,South,35-44
+2528,2025-03-28,iOS,Organic,West,25-34
+2529,2025-02-18,iOS,Paid Social,West,25-34
+2530,2025-01-09,Android,Paid Social,Northeast,45-54
+2531,2025-01-20,iOS,Organic,Midwest,35-44
+2532,2025-03-02,iOS,Paid Social,West,18-24
+2533,2025-02-04,Android,Organic,West,18-24
+2534,2025-02-19,Android,Paid Social,West,35-44
+2535,2025-03-23,iOS,Paid Social,Midwest,25-34
+2536,2025-03-03,Android,Paid Social,Midwest,45-54
+2537,2025-01-17,iOS,Referral,Northeast,18-24
+2538,2025-03-29,Android,Organic,South,18-24
+2539,2025-01-03,Android,Search,Midwest,25-34
+2540,2025-02-01,iOS,Paid Social,South,18-24
+2541,2025-01-13,Web,Paid Social,South,18-24
+2542,2025-03-30,iOS,Referral,Midwest,45-54
+2543,2025-03-14,Android,Referral,West,25-34
+2544,2025-03-09,iOS,Paid Social,Northeast,25-34
+2545,2025-01-14,Android,Paid Social,South,18-24
+2546,2025-01-11,Android,Organic,West,25-34
+2547,2025-02-25,Android,Organic,Midwest,35-44
+2548,2025-03-08,iOS,Paid Social,South,25-34
+2549,2025-01-29,Android,Organic,South,35-44
+2550,2025-01-09,Android,Paid Social,South,25-34
+2551,2025-03-08,Android,Organic,West,25-34
+2552,2025-01-25,Android,Referral,West,25-34
+2553,2025-03-17,Android,Search,West,25-34
+2554,2025-02-11,iOS,Search,South,35-44
+2555,2025-01-09,iOS,Paid Social,South,25-34
+2556,2025-03-20,Android,Referral,Northeast,35-44
+2557,2025-02-09,iOS,Search,Northeast,18-24
+2558,2025-01-25,Web,Paid Social,West,35-44
+2559,2025-01-05,Android,Organic,West,45-54
+2560,2025-01-11,Web,Search,Midwest,25-34
+2561,2025-02-28,iOS,Paid Social,West,25-34
+2562,2025-03-29,Android,Paid Social,Northeast,45-54
+2563,2025-03-20,Android,Organic,Northeast,25-34
+2564,2025-02-07,Android,Organic,Northeast,25-34
+2565,2025-03-13,Android,Referral,South,25-34
+2566,2025-01-05,iOS,Paid Social,South,35-44
+2567,2025-02-17,Android,Organic,West,35-44
+2568,2025-03-31,Android,Organic,Midwest,25-34
+2569,2025-01-18,iOS,Paid Social,Midwest,25-34
+2570,2025-03-11,iOS,Paid Social,Midwest,45-54
+2571,2025-02-06,Web,Organic,South,18-24
+2572,2025-03-01,Android,Search,Northeast,25-34
+2573,2025-02-17,Web,Organic,Northeast,18-24
+2574,2025-03-18,Android,Paid Social,South,35-44
+2575,2025-01-28,iOS,Referral,Midwest,18-24
+2576,2025-03-10,iOS,Organic,Midwest,35-44
+2577,2025-03-18,iOS,Referral,West,18-24
+2578,2025-03-22,iOS,Referral,West,35-44
+2579,2025-02-09,iOS,Referral,Midwest,35-44
+2580,2025-02-14,iOS,Organic,South,25-34
+2581,2025-03-03,iOS,Organic,Midwest,25-34
+2582,2025-02-27,Web,Organic,West,25-34
+2583,2025-03-08,iOS,Paid Social,Midwest,25-34
+2584,2025-02-25,Android,Referral,South,35-44
+2585,2025-02-09,Android,Referral,Northeast,25-34
+2586,2025-02-09,iOS,Referral,South,35-44
+2587,2025-03-18,iOS,Search,South,18-24
+2588,2025-02-02,iOS,Referral,West,18-24
+2589,2025-01-06,iOS,Organic,South,25-34
+2590,2025-03-29,Android,Organic,South,25-34
+2591,2025-01-19,iOS,Referral,West,25-34
+2592,2025-03-21,iOS,Organic,West,35-44
+2593,2025-02-09,iOS,Organic,Northeast,18-24
+2594,2025-02-28,Web,Paid Social,Midwest,18-24
+2595,2025-02-28,Android,Referral,South,35-44
+2596,2025-02-17,Android,Organic,West,35-44
+2597,2025-02-10,iOS,Referral,Northeast,18-24
+2598,2025-01-13,Android,Referral,Midwest,25-34
+2599,2025-02-14,Android,Paid Social,West,25-34
+2600,2025-03-30,Android,Organic,Midwest,35-44
+2601,2025-02-22,Web,Organic,Midwest,35-44
+2602,2025-02-11,iOS,Referral,South,35-44
+2603,2025-03-04,Web,Referral,South,35-44
+2604,2025-01-27,Web,Search,West,25-34
+2605,2025-02-07,iOS,Paid Social,Midwest,35-44
+2606,2025-03-01,Android,Organic,West,25-34
+2607,2025-01-07,Web,Organic,West,18-24
+2608,2025-01-05,iOS,Referral,Midwest,25-34
+2609,2025-02-14,Android,Organic,West,45-54
+2610,2025-02-27,Web,Organic,Midwest,35-44
+2611,2025-01-31,Android,Paid Social,Midwest,18-24
+2612,2025-01-23,iOS,Organic,Midwest,35-44
+2613,2025-02-11,Android,Organic,Midwest,35-44
+2614,2025-01-10,iOS,Paid Social,Northeast,25-34
+2615,2025-02-01,Android,Organic,Midwest,25-34
+2616,2025-02-22,iOS,Organic,South,35-44
+2617,2025-01-30,Android,Referral,South,25-34
+2618,2025-02-08,Android,Referral,South,18-24
+2619,2025-01-31,Android,Organic,Midwest,35-44
+2620,2025-03-23,Android,Referral,South,45-54
+2621,2025-01-02,Android,Paid Social,Northeast,35-44
+2622,2025-03-19,Android,Paid Social,West,35-44
+2623,2025-03-18,iOS,Search,Midwest,25-34
+2624,2025-01-12,Android,Referral,South,18-24
+2625,2025-02-08,iOS,Referral,Northeast,25-34
+2626,2025-03-07,Web,Organic,West,25-34
+2627,2025-01-13,iOS,Organic,Northeast,35-44
+2628,2025-02-15,iOS,Search,South,18-24
+2629,2025-01-27,Android,Paid Social,Northeast,25-34
+2630,2025-01-17,Android,Organic,West,25-34
+2631,2025-03-01,iOS,Referral,South,45-54
+2632,2025-03-05,Android,Referral,West,18-24
+2633,2025-03-29,Android,Search,Northeast,18-24
+2634,2025-02-04,Android,Organic,Midwest,18-24
+2635,2025-03-11,iOS,Search,Midwest,35-44
+2636,2025-03-24,Android,Organic,Midwest,18-24
+2637,2025-01-30,Android,Organic,Midwest,18-24
+2638,2025-03-12,Android,Paid Social,West,18-24
+2639,2025-03-15,Android,Organic,Midwest,35-44
+2640,2025-03-04,Android,Organic,West,18-24
+2641,2025-01-28,iOS,Referral,South,25-34
+2642,2025-03-01,iOS,Organic,Midwest,25-34
+2643,2025-03-20,iOS,Organic,West,25-34
+2644,2025-02-06,iOS,Organic,Midwest,35-44
+2645,2025-01-22,iOS,Paid Social,Midwest,25-34
+2646,2025-03-09,Android,Paid Social,Midwest,45-54
+2647,2025-01-20,iOS,Referral,West,45-54
+2648,2025-03-09,Web,Referral,Northeast,25-34
+2649,2025-03-05,iOS,Paid Social,Midwest,35-44
+2650,2025-01-17,Android,Referral,Midwest,35-44
+2651,2025-01-12,Android,Organic,South,35-44
+2652,2025-01-22,iOS,Organic,Northeast,25-34
+2653,2025-01-17,iOS,Referral,West,25-34
+2654,2025-01-10,Android,Paid Social,South,25-34
+2655,2025-03-06,iOS,Search,Midwest,35-44
+2656,2025-01-22,Web,Paid Social,South,18-24
+2657,2025-03-31,Android,Referral,South,18-24
+2658,2025-03-23,Web,Paid Social,Midwest,25-34
+2659,2025-02-19,iOS,Paid Social,Northeast,18-24
+2660,2025-01-14,Android,Paid Social,Northeast,25-34
+2661,2025-03-05,Android,Referral,South,18-24
+2662,2025-02-16,Android,Paid Social,Midwest,25-34
+2663,2025-01-29,iOS,Search,West,45-54
+2664,2025-03-17,Android,Organic,South,25-34
+2665,2025-02-05,Android,Organic,West,35-44
+2666,2025-02-21,Android,Paid Social,South,18-24
+2667,2025-03-17,iOS,Paid Social,South,18-24
+2668,2025-01-07,Android,Search,Midwest,35-44
+2669,2025-01-29,iOS,Organic,Midwest,35-44
+2670,2025-01-11,Android,Referral,West,25-34
+2671,2025-02-02,Android,Paid Social,West,45-54
+2672,2025-01-06,Android,Paid Social,Northeast,45-54
+2673,2025-03-20,Android,Search,Midwest,45-54
+2674,2025-02-01,iOS,Organic,South,25-34
+2675,2025-02-20,Web,Paid Social,South,18-24
+2676,2025-03-16,iOS,Search,Northeast,25-34
+2677,2025-02-27,Android,Search,Midwest,35-44
+2678,2025-03-28,Android,Paid Social,South,18-24
+2679,2025-01-26,Android,Paid Social,Northeast,35-44
+2680,2025-02-15,iOS,Organic,Northeast,18-24
+2681,2025-01-29,Android,Paid Social,South,25-34
+2682,2025-01-04,Android,Referral,South,25-34
+2683,2025-03-22,iOS,Referral,West,35-44
+2684,2025-01-13,Web,Organic,Midwest,25-34
+2685,2025-02-08,iOS,Organic,West,35-44
+2686,2025-01-15,iOS,Organic,Northeast,25-34
+2687,2025-01-29,iOS,Organic,South,35-44
+2688,2025-01-29,iOS,Organic,West,45-54
+2689,2025-03-16,Web,Paid Social,Northeast,35-44
+2690,2025-02-01,iOS,Organic,Midwest,45-54
+2691,2025-01-02,iOS,Organic,South,18-24
+2692,2025-02-16,iOS,Paid Social,West,25-34
+2693,2025-03-19,Android,Organic,Midwest,18-24
+2694,2025-03-25,Android,Organic,West,25-34
+2695,2025-01-22,iOS,Organic,Northeast,35-44
+2696,2025-03-16,iOS,Organic,Midwest,18-24
+2697,2025-01-27,Android,Paid Social,West,25-34
+2698,2025-03-08,iOS,Organic,Midwest,25-34
+2699,2025-03-22,Android,Referral,Northeast,25-34
+2700,2025-02-25,iOS,Search,Midwest,25-34
+2701,2025-01-21,Android,Referral,West,35-44
+2702,2025-02-16,iOS,Paid Social,Northeast,18-24
+2703,2025-03-21,Android,Search,South,25-34
+2704,2025-02-28,iOS,Referral,West,25-34
+2705,2025-03-25,Web,Organic,West,35-44
+2706,2025-01-06,iOS,Paid Social,Northeast,25-34
+2707,2025-01-19,Android,Search,Northeast,35-44
+2708,2025-02-26,iOS,Organic,South,25-34
+2709,2025-03-10,iOS,Organic,West,25-34
+2710,2025-01-03,Android,Referral,Northeast,18-24
+2711,2025-01-01,iOS,Referral,South,25-34
+2712,2025-02-27,Android,Organic,South,35-44
+2713,2025-02-07,Web,Paid Social,Northeast,18-24
+2714,2025-01-15,Android,Organic,West,25-34
+2715,2025-02-03,iOS,Referral,Midwest,35-44
+2716,2025-03-02,Android,Organic,Midwest,25-34
+2717,2025-02-04,iOS,Organic,South,18-24
+2718,2025-03-05,Android,Referral,Midwest,35-44
+2719,2025-01-25,Android,Paid Social,Midwest,18-24
+2720,2025-01-24,Android,Referral,Northeast,35-44
+2721,2025-01-12,Android,Paid Social,South,18-24
+2722,2025-01-18,Android,Organic,West,35-44
+2723,2025-01-15,iOS,Paid Social,South,25-34
+2724,2025-03-21,Android,Organic,Northeast,35-44
+2725,2025-01-27,iOS,Paid Social,Midwest,18-24
+2726,2025-03-13,Android,Organic,West,35-44
+2727,2025-03-01,Android,Referral,South,25-34
+2728,2025-02-15,Android,Search,Midwest,25-34
+2729,2025-03-30,iOS,Search,South,25-34
+2730,2025-01-17,Android,Paid Social,West,35-44
+2731,2025-02-22,iOS,Organic,South,45-54
+2732,2025-01-08,Android,Paid Social,South,18-24
+2733,2025-03-20,iOS,Referral,South,18-24
+2734,2025-01-27,iOS,Organic,Midwest,35-44
+2735,2025-02-15,iOS,Search,West,18-24
+2736,2025-02-19,Android,Organic,West,45-54
+2737,2025-03-12,iOS,Search,Midwest,25-34
+2738,2025-01-03,iOS,Referral,Midwest,35-44
+2739,2025-03-05,Web,Referral,Midwest,18-24
+2740,2025-02-13,iOS,Organic,Northeast,18-24
+2741,2025-02-22,Android,Organic,South,35-44
+2742,2025-01-24,Android,Paid Social,South,45-54
+2743,2025-03-01,Web,Organic,West,45-54
+2744,2025-01-03,Android,Organic,South,18-24
+2745,2025-01-20,Android,Paid Social,Northeast,18-24
+2746,2025-02-15,Android,Paid Social,Midwest,18-24
+2747,2025-01-15,iOS,Paid Social,West,35-44
+2748,2025-01-25,Android,Paid Social,West,25-34
+2749,2025-03-19,iOS,Organic,South,18-24
+2750,2025-03-12,Web,Search,West,18-24
+2751,2025-01-17,iOS,Organic,Midwest,25-34
+2752,2025-03-25,Android,Paid Social,West,45-54
+2753,2025-01-09,iOS,Paid Social,Midwest,25-34
+2754,2025-02-07,Android,Referral,Northeast,18-24
+2755,2025-02-17,iOS,Organic,Northeast,25-34
+2756,2025-03-01,Android,Paid Social,Midwest,25-34
+2757,2025-03-04,Android,Paid Social,South,18-24
+2758,2025-03-27,iOS,Organic,West,18-24
+2759,2025-01-02,Android,Paid Social,South,35-44
+2760,2025-03-29,Android,Search,West,18-24
+2761,2025-03-13,Android,Search,Northeast,18-24
+2762,2025-01-11,iOS,Organic,Northeast,25-34
+2763,2025-03-05,iOS,Organic,Northeast,35-44
+2764,2025-03-18,iOS,Organic,West,25-34
+2765,2025-03-22,iOS,Paid Social,Northeast,35-44
+2766,2025-03-13,Web,Organic,Northeast,25-34
+2767,2025-01-21,iOS,Organic,Northeast,35-44
+2768,2025-01-18,Android,Search,Northeast,18-24
+2769,2025-03-05,iOS,Search,South,45-54
+2770,2025-03-23,Android,Organic,Northeast,18-24
+2771,2025-02-07,Android,Organic,Northeast,25-34
+2772,2025-02-01,Android,Paid Social,South,35-44
+2773,2025-01-11,iOS,Organic,South,25-34
+2774,2025-02-14,Android,Paid Social,West,45-54
+2775,2025-03-30,iOS,Paid Social,Midwest,25-34
+2776,2025-02-02,iOS,Search,Northeast,35-44
+2777,2025-02-10,iOS,Referral,Northeast,35-44
+2778,2025-01-08,Android,Paid Social,Northeast,45-54
+2779,2025-01-11,iOS,Referral,West,45-54
+2780,2025-03-27,Android,Organic,Northeast,35-44
+2781,2025-02-20,iOS,Paid Social,Midwest,35-44
+2782,2025-03-29,Android,Paid Social,South,25-34
+2783,2025-02-10,iOS,Organic,West,18-24
+2784,2025-01-17,Android,Organic,South,35-44
+2785,2025-03-17,Android,Organic,Northeast,45-54
+2786,2025-02-15,Android,Search,Northeast,35-44
+2787,2025-02-01,Android,Organic,Northeast,45-54
+2788,2025-03-20,iOS,Organic,Midwest,35-44
+2789,2025-03-21,Android,Paid Social,Midwest,18-24
+2790,2025-02-23,iOS,Referral,West,18-24
+2791,2025-03-27,iOS,Organic,South,25-34
+2792,2025-01-20,Android,Search,Northeast,18-24
+2793,2025-02-02,Android,Search,Northeast,25-34
+2794,2025-03-15,iOS,Paid Social,Northeast,45-54
+2795,2025-02-09,Android,Referral,Northeast,35-44
+2796,2025-02-01,Android,Organic,Midwest,25-34
+2797,2025-01-02,iOS,Organic,South,18-24
+2798,2025-02-02,iOS,Referral,South,25-34
+2799,2025-03-18,iOS,Organic,West,25-34
+2800,2025-01-30,iOS,Organic,Midwest,25-34
+2801,2025-02-02,iOS,Paid Social,Northeast,18-24
+2802,2025-03-18,iOS,Organic,South,25-34
+2803,2025-01-26,iOS,Search,South,25-34
+2804,2025-01-22,Android,Organic,Midwest,45-54
+2805,2025-03-07,Android,Referral,West,18-24
+2806,2025-02-07,Web,Paid Social,West,18-24
+2807,2025-03-31,iOS,Referral,Northeast,18-24
+2808,2025-02-15,Android,Organic,West,25-34
+2809,2025-01-15,Android,Paid Social,South,35-44
+2810,2025-02-13,Android,Search,West,35-44
+2811,2025-02-18,iOS,Paid Social,Northeast,25-34
+2812,2025-03-16,Android,Paid Social,South,35-44
+2813,2025-03-02,iOS,Paid Social,West,25-34
+2814,2025-03-08,iOS,Referral,West,35-44
+2815,2025-01-06,Android,Paid Social,Midwest,18-24
+2816,2025-01-09,Android,Search,Northeast,25-34
+2817,2025-01-06,iOS,Organic,West,35-44
+2818,2025-03-14,Web,Paid Social,Midwest,35-44
+2819,2025-02-01,Android,Referral,South,35-44
+2820,2025-02-10,Android,Referral,Midwest,18-24
+2821,2025-03-17,Web,Search,Midwest,18-24
+2822,2025-01-08,iOS,Search,West,45-54
+2823,2025-03-13,Web,Paid Social,West,18-24
+2824,2025-02-19,Android,Organic,West,18-24
+2825,2025-03-03,iOS,Organic,Midwest,18-24
+2826,2025-03-25,Android,Referral,South,25-34
+2827,2025-03-03,Android,Search,Northeast,18-24
+2828,2025-01-07,Android,Organic,Midwest,25-34
+2829,2025-03-16,Web,Organic,West,25-34
+2830,2025-03-25,Android,Organic,Northeast,45-54
+2831,2025-03-21,Android,Referral,South,18-24
+2832,2025-01-04,Android,Organic,Northeast,25-34
+2833,2025-01-06,Android,Paid Social,West,25-34
+2834,2025-02-27,iOS,Paid Social,Midwest,25-34
+2835,2025-01-22,Android,Referral,Midwest,25-34
+2836,2025-01-26,iOS,Referral,West,35-44
+2837,2025-01-03,Android,Paid Social,Midwest,18-24
+2838,2025-02-10,Android,Organic,West,35-44
+2839,2025-03-01,Android,Paid Social,Midwest,25-34
+2840,2025-01-14,Android,Referral,Midwest,18-24
+2841,2025-03-16,Android,Search,Midwest,35-44
+2842,2025-03-23,Android,Organic,South,25-34
+2843,2025-01-12,Android,Organic,South,18-24
+2844,2025-03-28,iOS,Organic,West,18-24
+2845,2025-01-12,iOS,Paid Social,South,18-24
+2846,2025-01-13,iOS,Referral,West,25-34
+2847,2025-01-25,Android,Organic,Northeast,18-24
+2848,2025-02-14,Android,Paid Social,Northeast,18-24
+2849,2025-01-19,Android,Organic,South,18-24
+2850,2025-02-24,iOS,Organic,Northeast,35-44
+2851,2025-02-14,Android,Paid Social,Northeast,35-44
+2852,2025-01-08,iOS,Organic,Midwest,35-44
+2853,2025-02-22,iOS,Paid Social,Midwest,18-24
+2854,2025-02-24,Android,Referral,West,45-54
+2855,2025-02-01,iOS,Paid Social,Northeast,35-44
+2856,2025-02-20,iOS,Organic,West,35-44
+2857,2025-02-13,iOS,Search,West,25-34
+2858,2025-03-23,iOS,Paid Social,Northeast,25-34
+2859,2025-03-11,Android,Referral,South,35-44
+2860,2025-01-18,iOS,Organic,Northeast,18-24
+2861,2025-03-24,Android,Organic,Midwest,25-34
+2862,2025-01-22,Android,Organic,Northeast,35-44
+2863,2025-02-06,Android,Organic,South,35-44
+2864,2025-02-25,Web,Paid Social,West,45-54
+2865,2025-02-28,Android,Search,West,35-44
+2866,2025-01-03,Android,Paid Social,Midwest,18-24
+2867,2025-01-28,Web,Organic,Midwest,18-24
+2868,2025-03-15,iOS,Paid Social,Midwest,25-34
+2869,2025-02-04,Web,Organic,West,25-34
+2870,2025-03-02,iOS,Paid Social,Midwest,18-24
+2871,2025-02-23,iOS,Paid Social,Northeast,18-24
+2872,2025-03-04,iOS,Referral,West,25-34
+2873,2025-03-20,Android,Search,South,35-44
+2874,2025-01-07,Android,Organic,West,45-54
+2875,2025-03-17,Android,Paid Social,Northeast,35-44
+2876,2025-02-18,iOS,Search,Northeast,35-44
+2877,2025-03-26,iOS,Referral,Midwest,25-34
+2878,2025-01-31,iOS,Paid Social,West,45-54
+2879,2025-02-27,iOS,Search,West,25-34
+2880,2025-03-02,Web,Organic,West,35-44
+2881,2025-01-24,iOS,Search,South,45-54
+2882,2025-01-20,Android,Organic,Midwest,45-54
+2883,2025-02-06,Android,Paid Social,Northeast,25-34
+2884,2025-01-04,iOS,Search,Northeast,18-24
+2885,2025-01-20,Android,Organic,Midwest,18-24
+2886,2025-03-01,iOS,Paid Social,Northeast,18-24
+2887,2025-01-24,iOS,Organic,Northeast,18-24
+2888,2025-02-19,iOS,Search,Midwest,18-24
+2889,2025-02-18,Android,Referral,Northeast,25-34
+2890,2025-02-20,iOS,Referral,West,25-34
+2891,2025-02-05,Android,Paid Social,South,35-44
+2892,2025-03-07,Android,Referral,Midwest,18-24
+2893,2025-03-20,iOS,Paid Social,South,35-44
+2894,2025-02-03,Android,Paid Social,Northeast,35-44
+2895,2025-02-05,Android,Referral,Northeast,25-34
+2896,2025-01-06,iOS,Paid Social,West,45-54
+2897,2025-02-08,iOS,Organic,Midwest,18-24
+2898,2025-02-11,Android,Organic,Northeast,18-24
+2899,2025-02-27,iOS,Organic,Midwest,25-34
+2900,2025-01-12,Android,Search,Midwest,18-24
+2901,2025-01-03,iOS,Paid Social,Midwest,25-34
+2902,2025-01-18,iOS,Referral,Midwest,25-34
+2903,2025-02-09,iOS,Paid Social,Midwest,25-34
+2904,2025-01-21,iOS,Organic,South,18-24
+2905,2025-01-15,Android,Organic,West,25-34
+2906,2025-01-26,iOS,Referral,Midwest,25-34
+2907,2025-01-08,Android,Paid Social,South,25-34
+2908,2025-03-28,Android,Search,Northeast,18-24
+2909,2025-02-11,Android,Referral,Midwest,18-24
+2910,2025-02-13,Android,Paid Social,Northeast,18-24
+2911,2025-01-14,iOS,Paid Social,Midwest,18-24
+2912,2025-03-19,iOS,Search,South,35-44
+2913,2025-01-02,Android,Referral,South,18-24
+2914,2025-02-06,iOS,Organic,South,35-44
+2915,2025-03-10,Android,Paid Social,West,35-44
+2916,2025-02-07,iOS,Referral,Northeast,18-24
+2917,2025-02-10,Android,Referral,West,25-34
+2918,2025-03-03,Android,Organic,Midwest,45-54
+2919,2025-03-01,Android,Search,Northeast,35-44
+2920,2025-01-14,Android,Search,South,25-34
+2921,2025-03-30,Android,Organic,Northeast,35-44
+2922,2025-03-25,Android,Search,South,35-44
+2923,2025-01-02,Android,Organic,West,25-34
+2924,2025-03-11,iOS,Organic,West,35-44
+2925,2025-01-17,iOS,Organic,South,25-34
+2926,2025-03-30,Android,Organic,South,25-34
+2927,2025-01-28,Web,Referral,Midwest,45-54
+2928,2025-03-07,iOS,Organic,West,35-44
+2929,2025-02-04,Android,Organic,West,25-34
+2930,2025-01-05,Android,Organic,Midwest,18-24
+2931,2025-03-06,Android,Organic,West,25-34
+2932,2025-02-09,Android,Organic,South,35-44
+2933,2025-03-17,iOS,Referral,Northeast,35-44
+2934,2025-02-25,Android,Organic,Northeast,45-54
+2935,2025-02-05,Android,Search,West,35-44
+2936,2025-02-14,Android,Referral,Midwest,25-34
+2937,2025-01-23,iOS,Organic,South,18-24
+2938,2025-02-16,Android,Search,Northeast,25-34
+2939,2025-01-31,Android,Organic,South,35-44
+2940,2025-01-11,iOS,Organic,West,25-34
+2941,2025-01-10,Android,Organic,West,25-34
+2942,2025-03-08,Android,Organic,Northeast,25-34
+2943,2025-01-14,Android,Paid Social,West,25-34
+2944,2025-03-21,Web,Referral,Midwest,25-34
+2945,2025-03-15,Android,Organic,West,25-34
+2946,2025-01-10,Android,Referral,West,18-24
+2947,2025-03-17,Android,Organic,West,25-34
+2948,2025-01-01,iOS,Referral,South,25-34
+2949,2025-01-05,iOS,Organic,South,25-34
+2950,2025-01-20,Android,Organic,Northeast,18-24
+2951,2025-01-08,iOS,Organic,Northeast,35-44
+2952,2025-02-12,iOS,Organic,Northeast,25-34
+2953,2025-03-17,Android,Paid Social,West,35-44
+2954,2025-01-01,Android,Referral,South,35-44
+2955,2025-02-26,Android,Organic,Midwest,25-34
+2956,2025-03-05,Android,Referral,West,25-34
+2957,2025-03-25,Android,Referral,West,45-54
+2958,2025-01-28,iOS,Search,West,35-44
+2959,2025-02-06,iOS,Organic,Midwest,45-54
+2960,2025-02-16,Android,Paid Social,Northeast,35-44
+2961,2025-03-17,Android,Search,Midwest,18-24
+2962,2025-02-06,iOS,Referral,Northeast,18-24
+2963,2025-02-18,Android,Paid Social,Midwest,25-34
+2964,2025-02-13,iOS,Organic,South,25-34
+2965,2025-02-25,Android,Organic,West,25-34
+2966,2025-01-28,Android,Paid Social,West,35-44
+2967,2025-03-20,Android,Referral,West,25-34
+2968,2025-01-06,Web,Organic,Northeast,25-34
+2969,2025-03-02,Android,Paid Social,Midwest,35-44
+2970,2025-01-20,Web,Paid Social,South,35-44
+2971,2025-03-19,Web,Paid Social,Midwest,25-34
+2972,2025-01-02,Android,Referral,West,35-44
+2973,2025-03-14,Android,Referral,South,35-44
+2974,2025-02-06,iOS,Organic,South,25-34
+2975,2025-01-20,Android,Search,West,18-24
+2976,2025-01-26,Android,Organic,Midwest,18-24
+2977,2025-01-29,iOS,Organic,West,25-34
+2978,2025-01-01,iOS,Organic,Midwest,25-34
+2979,2025-02-04,Web,Organic,South,45-54
+2980,2025-03-11,Android,Organic,South,35-44
+2981,2025-02-28,Android,Organic,West,35-44
+2982,2025-03-10,iOS,Referral,South,45-54
+2983,2025-02-02,iOS,Organic,Northeast,35-44
+2984,2025-02-20,iOS,Referral,South,25-34
+2985,2025-03-19,iOS,Organic,Northeast,18-24
+2986,2025-01-12,iOS,Search,South,35-44
+2987,2025-01-20,iOS,Referral,West,25-34
+2988,2025-02-22,Web,Organic,West,25-34
+2989,2025-03-29,Android,Referral,Northeast,25-34
+2990,2025-02-12,iOS,Paid Social,West,45-54
+2991,2025-03-30,iOS,Referral,South,25-34
+2992,2025-02-19,Android,Paid Social,South,35-44
+2993,2025-01-29,iOS,Paid Social,West,25-34
+2994,2025-02-26,Web,Referral,South,35-44
+2995,2025-02-08,iOS,Paid Social,Midwest,18-24
+2996,2025-02-25,iOS,Organic,Midwest,35-44
+2997,2025-02-12,iOS,Referral,South,18-24
+2998,2025-02-19,iOS,Paid Social,West,35-44
+2999,2025-01-23,Android,Paid Social,Northeast,18-24
+3000,2025-02-13,Android,Organic,West,25-34
