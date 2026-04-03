@@ -130,7 +130,7 @@ Based on this analysis, a fintech product or operations team could consider:
 
 ## Repository Structure
 ```bash
-fintech-kyc-funnel-analysis/
+kyc-funnel-analysis/
 ├── data/
 │   └── raw/
 ├── notebooks/
@@ -141,6 +141,7 @@ fintech-kyc-funnel-analysis/
 │   └── generate_data.py
 ├── sql/
 │   ├── 01_create_tables.sql
+│   ├── 02_load_data_notes.sql
 │   ├── 03_funnel_metrics.sql
 │   ├── 04_segment_analysis.sql
 │   └── 05_time_to_activation.sql
