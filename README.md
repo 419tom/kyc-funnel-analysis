@@ -136,8 +136,8 @@ This project includes SQL scripts for:
 - conversion rate analysis
 - segment-based KYC performance
 - time-to-activation analysis
-
 SQL files are organized in the `sql/` directory for reproducibility and modular analysis.
+
 ---
 
 ## Repository Structure
