@@ -1,3 +1,4 @@
+-- Create tables
 DROP TABLE IF EXISTS users;
 DROP TABLE IF EXISTS kyc_events;
 DROP TABLE IF EXISTS transactions;
