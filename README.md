@@ -125,7 +125,19 @@ Based on this analysis, a fintech product or operations team could consider:
 - optimizing onboarding for high-friction user segments
 - investigating bank-linking usability issues
 - prioritizing complaint themes associated with failed onboarding
+---
 
+## SQL Analysis Included
+
+This project includes SQL scripts for:
+
+- schema creation
+- funnel stage counts
+- conversion rate analysis
+- segment-based KYC performance
+- time-to-activation analysis
+
+SQL files are organized in the `sql/` directory for reproducibility and modular analysis.
 ---
 
 ## Repository Structure
