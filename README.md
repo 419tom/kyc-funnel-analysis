@@ -161,3 +161,110 @@ kyc-funnel-analysis/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+
+
+## How to Run This Project
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/yourusername/kyc-funnel-analysis.git
+cd kyc-funnel-analysis
+```
+
+### 2. Create a virtual environment
+```bash
+python -m venv venv
+```
+
+### 3. Activate the virtual environment
+
+**Windows (PowerShell):**
+```powershell
+venv\Scripts\Activate.ps1
+```
+
+**Windows (Command Prompt):**
+```cmd
+venv\Scripts\activate.bat
+```
+
+**macOS / Linux:**
+```bash
+source venv/bin/activate
+```
+
+### 4. Install required packages
+```bash
+pip install -r requirements.txt
+```
+
+### 5. Generate the synthetic data
+Run the script below to generate synthetic onboarding, transaction, and feedback data:
+
+```bash
+python scripts/generate_data.py
+```
+
+This will populate:
+
+- `data/raw/users.csv`
+- `data/raw/kyc_events.csv`
+- `data/raw/transactions.csv`
+- `data/raw/user_feedback.csv`
+
+### 6. Open and run the notebook
+Open the notebook below in Jupyter or VS Code and run all cells:
+
+```bash
+notebooks/kyc_funnel_analysis.ipynb
+```
+
+The notebook includes:
+- onboarding funnel analysis
+- drop-off metrics
+- user segment comparisons
+- NLP feedback sentiment analysis
+- complaint theme exploration
+
+### 7. (Optional) Run SQL analysis
+SQL scripts are included in the `sql/` folder for reproducibility and database-style analysis.
+
+Included SQL files:
+- `01_create_tables.sql`
+- `02_load_data_notes.sql`
+- `03_funnel_metrics.sql`
+- `04_segment_analysis.sql`
+- `05_time_to_activation.sql`
+
+You can run them in:
+- SQLite
+- PyCharm Database Console
+- DB Browser for SQLite
+- VS Code SQL extensions
+
+### 8. Review saved outputs
+Charts and exported visuals can be saved to:
+
+```bash
+outputs/charts/
+```
+
+---
+
+## Project Notes
+
+- This project uses **synthetic data** for demonstration and portfolio purposes.
+- The workflow is designed to simulate a real fintech onboarding / KYC analytics case study.
+- SQL and Python are both used to demonstrate reproducible analysis and business reporting.
+
+---
+
+## Future Improvements
+
+Potential future enhancements include:
+
+- dashboarding in Tableau or Power BI
+- predictive modeling for KYC approval
+- text classification of onboarding complaints
+- cohort analysis of activation behavior
+- A/B test simulation for onboarding UX changes
