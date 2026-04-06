@@ -170,7 +170,7 @@ kyc-funnel-analysis/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/kyc-funnel-analysis.git
+git clone https://github.com/419tom/kyc-funnel-analysis.git
 cd kyc-funnel-analysis
 ```
 ### 2. Create a virtual environment
@@ -266,6 +266,6 @@ Potential future enhancements include:
 
 - dashboarding in Tableau or Power BI
 - predictive modeling for KYC approval
-- text classification of onboarding complaints
+- further text classification of onboarding complaints
 - cohort analysis of activation behavior
 - A/B test simulation for onboarding UX changes
