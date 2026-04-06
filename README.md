@@ -163,19 +163,20 @@ kyc-funnel-analysis/
 └── .gitignore
 
 
-## How to Run This Project
+
+```
+
+### Instructions for Running Project: 
 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/kyc-funnel-analysis.git
 cd kyc-funnel-analysis
 ```
-
 ### 2. Create a virtual environment
 ```bash
 python -m venv venv
 ```
-
 ### 3. Activate the virtual environment
 
 **Windows (PowerShell):**
